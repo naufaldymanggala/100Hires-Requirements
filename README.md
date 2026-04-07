@@ -1,16 +1,16 @@
-# 100Hires-Requirements
-What tools I Installed: I installed cursor IDE, and installed 2 extensions (openAI & claude code) to cursor
+100Hires-Requirements
+What Tools I Installed: I installed Cursor IDE and two extensions — Claude Code and OpenAI (Codex) — within Cursor.
 
-What steps I Completed: 
-1. Downloaded & Installed Cursor IDE 
-2. Installed Claude Code & OpenAI extension in cursor 
-3. Logged in into OpenAI  
-4. Created a Github account 
-5. Linked the Github account with Cursor 
+What Steps I Completed:
+1. Downloaded and installed Cursor IDE
+2. Installed the Claude Code and OpenAI extensions in Cursor
+3. Logged in to OpenAI
+4. Created a GitHub account
+5. Linked the GitHub account with Cursor
 6. Added a new repository on GitHub
 7. Cloned the repository to Cursor
 
-What issues I ran into: 
-1. I couldnt find the extension option is cursor so i decided to look it up on google. It turns out that using a simple Ctrl+Shift+X shortcut opens up the extension options
-2. I logged in into OpenAI/Codex, but I have troubles logging in into Claude code because it requires a subscription
-3. I had problems connecting my github repository to cursor. I searched up the steps on youtube and found this helpful guide https://www.youtube.com/watch?v=q0nGtPuciK4. By doing this I can clone all my github repositories to cursor.
+What Issues I Ran Into:
+1. I couldn't find the Extensions option in Cursor, so I looked it up on Google. It turns out that pressing Ctrl+Shift+X opens the Extensions panel.
+2. I logged in to OpenAI/Codex without issues, but had trouble logging in to Claude Code because it requires a subscription.
+3. I had trouble connecting my GitHub repository to Cursor. I searched for help on YouTube and found a useful guide: https://www.youtube.com/watch?v=q0nGtPuciK4. Following it, I was able to clone my GitHub repositories to Cursor successfully.

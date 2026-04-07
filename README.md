@@ -12,3 +12,4 @@ What steps I Completed:
 What issues I ran into: 
 1. I couldnt find the extension option is cursor so i decided to look it up on google. It turns out that using a simple Ctrl+Shift+X shortcut opens up the extension options
 2. I logged in into OpenAI/Codex, but I have troubles logging in into Claude code because it requires a subscription
+I had problems connecting my github repository to cursor. I searched up the steps on youtube and found this helpful guide https://www.youtube.com/watch?v=q0nGtPuciK4. By doing this I can clone all my github repositories to cursor.

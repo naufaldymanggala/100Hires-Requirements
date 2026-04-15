@@ -20,7 +20,7 @@
 - **YouTube:** https://youtube.com/@MattDiggity
 - **Website:** https://diggitymarketing.com
 - **Date added:** 2025-04-15
-- **Annotation:** Founder of Diggity Marketing, The Affiliate Lab, and The Search Initiative. Publishes data-driven SEO experiments from real sites he owns and operates — not theory. 172K+ YouTube subscribers. Particularly useful for AI content production applied to affiliate and lead gen sites at scale.
+- **Annotation:** Founder of Diggity Marketing, The Affiliate Lab, and The Search Initiative. Publishes data-driven SEO experiments from real sites he owns and operates. 172K+ YouTube subscribers. Particularly useful for AI content production applied to affiliate and lead gen sites at scale.
 
 ---
 

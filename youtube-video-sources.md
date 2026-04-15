@@ -7,11 +7,13 @@
 ## Video 1 — HzgMpTVJpz0
 
 - **YouTube:** https://www.youtube.com/watch?v=HzgMpTVJpz0&t=1404s
-- **Title:** [TITLE]
-- **Author:** [AUTHOR NAME]
-- **Channel:** [CHANNEL URL]
+- **Title:** How to ACTUALLY Learn AI SEO (in 2026)
+- **Author:** Nathan Gotch
+- **Channel:** Nathan Gotch
 - **Last checked:** 2025-04-15
-- **Annotation:** [ANNOTATION]
+- **Annotation:** In this video, seasoned SEO expert Nathan Gotch shares his modern framework for mastering SEO and AI search optimization. He emphasizes the importance of "just-in-time" learning—actively solving roadblocks using AI tools rather than passively studying theory.
+
+The core strategy he advocates is "Search Everywhere Optimization," which means marketers must expand their focus beyond Google's traditional blue links to optimize across multiple AI products, including Google AI Overviews, AI Mode, Gemini, ChatGPT, Claude, and YouTube. Finally, he outlines his tech stack and workflow hacks, highlighting tools like Search OS, Rankability, Replit for AI coding, voice dictation for content creation, and deploying open-source AI agents (like OpenClaw) on dedicated devices to autonomously manage and execute SEO projects.
 
 ---
 

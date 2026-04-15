@@ -4,7 +4,7 @@
 
 ---
 
-## Video 1 — HzgMpTVJpz0
+## Video 1 — How to ACTUALLY Learn AI SEO (in 2026)
 
 - **YouTube:** https://www.youtube.com/watch?v=HzgMpTVJpz0&t=1404s
 - **Title:** How to ACTUALLY Learn AI SEO (in 2026)

@@ -16,7 +16,7 @@ What Tools I Installed: I installed Cursor IDE and two extensions — Claude Cod
 3. I had trouble connecting my GitHub repository to Cursor. I searched for help on YouTube and found a useful guide: https://www.youtube.com/watch?v=q0nGtPuciK4. Following it, I was able to clone my GitHub repositories to Cursor successfully.
 ---
 **What I collected:**
-* I chose the topic "AI-powered SEO content production" and found 10 practitioners Claude and Gemini. I learned from their recent videos and posts then got the video transcript with Supadata AI.
+* I chose the topic "AI-powered SEO content production" and found 10 practitioners. I learned from their recent videos and posts then got the video transcript with Supadata AI. I also learned ways to make API automation with n8n, Apify (combined with Claude Code and Visual Code), even though almost all of them require paid subscriptions.
 ---
 **Why I chose them:**
 * Nathan Gotch:

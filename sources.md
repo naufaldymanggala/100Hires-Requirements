@@ -85,8 +85,8 @@
 
 ## 9. Ryan Law
 
-- **LinkedIn:** 
-- **YouTube:** https://www.youtube.com/@AhrefsCom
+- **LinkedIn:** https://www.linkedin.com/in/thinkingslow/
+- **YouTube:** https://www.youtube.com/@ahrefspodcast
 - **Website:** https://ahrefs.com/blog
 - **Date added:** 2025-04-15
 - **Annotation:** Director of Content at Ahrefs. One of the most rigorous voices against low-quality AI-generated content, advocating for expertise-driven content that AI search systems actually cite. His posts consistently outperform larger accounts in engagement despite a smaller following. Best source for understanding what separates AI-assisted content that ranks from AI content that doesn't.

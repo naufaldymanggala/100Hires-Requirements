@@ -1,0 +1,228 @@
+00:00:00 I built an AI bot that should at the
+00:00:02 press of a button do the work of a 100
+00:00:04 SEO experts. All the content with a
+00:00:06 single push, all the metadata and link
+00:00:08 building campaign. How'd it go? With it,
+00:00:10 I increased my client's revenue from 166
+00:00:13 to
+00:00:14 $491,000 per month by increasing their
+00:00:17 monthly traffic by 266%.
+00:00:19 Damn. But here's the wild part. The
+00:00:22 system runs itself. No manual tweaking,
+00:00:24 no babysitting AI prompts. Just press go
+00:00:27 and that's it. In this video, I'm going
+00:00:28 to show you how I did it so you can copy
+00:00:30 this AI SEO Terminator for yourself. My
+00:00:33 name is Matt Diggity and I'm the
+00:00:34 director at the Search Initiative, an
+00:00:36 international SEO agency managing some
+00:00:38 of the biggest brands on the internet.
+00:00:39 Early last year, we signed a new SEO
+00:00:41 client selling home interiors. They were
+00:00:43 fresh off a messy breakup from their old
+00:00:45 SEO agency. You know the vibe. Trust
+00:00:47 shattered, expectations low, and a
+00:00:49 little baggage trailing behind. Now
+00:00:50 they're with us, and the clock is
+00:00:52 ticking. They were skeptical, and we had
+00:00:54 to prove that we were the rebound that
+00:00:55 they wouldn't regret. The pressure was
+00:00:57 on, so we needed to create an AI
+00:00:59 gigachad to help us get some quick
+00:01:01 results. As you know, the current OpenAI
+00:01:03 LLM models are good. No doubt, we're
+00:01:05 starting to get to the point where with
+00:01:06 decent prompting, you can get
+00:01:08 undetectable AI content better than the
+00:01:10 average human can write. But it's still
+00:01:12 a handheld process. You prompt, get a
+00:01:14 result, you refine, and then you do it
+00:01:16 over and over again for each task, each
+00:01:18 piece of content you write, each
+00:01:20 metatitle, each description, each link
+00:01:22 outreach pitch. There's a lot of room
+00:01:24 for speed and quality improvements. What
+00:01:26 you want is an AI overlord system that
+00:01:28 you can just say, "Yo, write these 300
+00:01:30 pages or build 200 links." And it's
+00:01:32 like, "Hold my beer, human newbie."
+00:01:35 That's what you're here for. Sounds too
+00:01:36 good to be true. That's what I thought,
+00:01:38 too, until I saw what I'm about to show
+00:01:39 you. But real quick, before I get
+00:01:41 started, I wanted to let you know that
+00:01:42 my SEO agency, The Search Initiative, is
+00:01:44 taking on a handful of clients right now
+00:01:46 for $1,000 off their first month in
+00:01:48 exchange for a testimonial down the
+00:01:50 road. Just head on over to the
+00:01:51 searchinitiative.com, put your deeds
+00:01:53 into the form, and we'll get right back
+00:01:54 to you. All right, so here's what's
+00:01:55 going to go down. We want to build a
+00:01:57 system, an AI bot manager that handles
+00:02:00 hundreds of SEO tasks in batch mode to
+00:02:02 ultimately make Google our B. But you're
+00:02:04 probably already thinking, "But Matt, I
+00:02:06 don't know how to code, and I don't want
+00:02:07 to know either." You know what? Neither
+00:02:09 do I. We're going to use Make.com, a
+00:02:11 noode automation tool that connects to
+00:02:13 apps like ChatGpt to build us an AI
+00:02:16 agent that's going to create hundreds of
+00:02:18 pages of incredible content in one shot.
+00:02:20 Let's get started building our super
+00:02:22 mega awesome scalable content strategy.
+00:02:24 You've heard of topical authority,
+00:02:25 right? If you write one article about
+00:02:27 cooking, Google's going to be like, "I
+00:02:29 don't give a fuck." But if you write
+00:02:31 tons of highquality cooking articles,
+00:02:33 Google will start to rank you. That's
+00:02:35 because it's cheaper and more reliable
+00:02:37 for them to depend on certain websites
+00:02:39 as topical authorities for certain
+00:02:41 topics, websites they can count on for
+00:02:43 good food recipes. If you're starting to
+00:02:45 zone out, wake up. This is the part that
+00:02:47 actually makes you money. So, the best
+00:02:49 content strategy is hands down to make
+00:02:52 sure that you write more quality cooking
+00:02:54 content than your competitors. Load at
+00:02:57 competitive analysis tool and enter your
+00:02:59 domain along with your competition.
+00:03:01 Bonapetit, here's a bajillion recipes
+00:03:03 you haven't covered. Export this out and
+00:03:05 then create a simple spreadsheet like
+00:03:07 this with the topic in one column and
+00:03:09 the keyword in the next. We're going to
+00:03:10 feed this into our hungry AI beast. Now,
+00:03:12 here's a 2024 so last year way to use AI
+00:03:16 to write content. You create a prompt
+00:03:18 that gets the AI to write what you want,
+00:03:20 get an output, see that it's a complete
+00:03:22 mess, refine your prompt, see that your
+00:03:24 content is still poo poo, and then you
+00:03:26 decide to just edit it so you can just
+00:03:27 get the damn thing done. Then you move
+00:03:29 on to the next article. Here's the 2025
+00:03:31 way. Yo, AI Masterbot Genius Overlord. I
+00:03:34 want 300 articles. Go tell Chad GBT to
+00:03:37 create them all according to spec. To
+00:03:38 make your AI overlord, you're going to
+00:03:40 need first Google Docs. Easy. Second, an
+00:03:43 OpenAI account. Plus or pro is fine for
+00:03:45 this. and a make.com free or pro account
+00:03:48 to stitch the above tools together. To
+00:03:50 hook up make with your newly created
+00:03:52 content sheet, create a new scenario.
+00:03:54 We're going to call it content system
+00:03:55 and then click the plus sign to
+00:03:57 integrate Google Sheets. Then you're
+00:03:59 going to select the data that you want
+00:04:00 to use for your content machine by just
+00:04:02 highlighting it. And just like that,
+00:04:03 your spreadsheet is now connected to
+00:04:05 make. Now you want to connect make to
+00:04:07 chat GBT and Open AAI so it can be mode
+00:04:10 all these articles. Click the plus sign
+00:04:11 button thingy again, but this time add
+00:04:13 open AI. Then you're going to select
+00:04:15 message an assistant. It lets you
+00:04:17 provide GPT with a prompt. To finish
+00:04:19 connecting make with OpenAI, you're
+00:04:21 going to need to generate an AI key,
+00:04:23 which can be found at this URL. Drop
+00:04:25 that bad boy into make and you're all
+00:04:26 set. Now, here's the fun part where you
+00:04:29 get to pretend you're God's gift to
+00:04:30 coding, but it's actually easy AF. The
+00:04:32 message field is where you'll add your
+00:04:34 prompt to instruct the GPT to craft your
+00:04:36 content. But there's something you need
+00:04:38 to know about producing AI content. It
+00:04:40 always works best if you first instruct
+00:04:43 the AI to build an outline and then you
+00:04:46 get it to produce content using that
+00:04:48 outline as a reference. It works every
+00:04:51 time. Here's a prompt for generating an
+00:04:53 outline for recipe style content.
+00:04:55 Generate a structured outline based on
+00:04:57 the following details. Topic and target
+00:04:59 keywords are going to come from our
+00:05:00 Google sheet just like this. And then
+00:05:02 we're going to get into guidelines like
+00:05:03 one to two short paragraph introduction,
+00:05:06 key recipe details, ingredients
+00:05:08 instructions, yada yada. Then finally,
+00:05:10 we end the prompt with make sure the
+00:05:12 outline is clear, engaging, and easy to
+00:05:14 follow. Now that your outline module is
+00:05:15 complete, it's time to make a content
+00:05:17 generator module. This time in the
+00:05:19 message tab, you're going to give it a
+00:05:21 prompt like this. Write a complete,
+00:05:23 well- formatted recipe page based on the
+00:05:25 following structured outline. And here
+00:05:27 you're telling make.com and ultimately
+00:05:29 the AI to read in the result from the
+00:05:30 outlined stat. Requirements: tone,
+00:05:33 friendly, and informative, but not too
+00:05:34 informal. Use the following keywords
+00:05:36 naturally throughout the page, and so
+00:05:38 forth. Here's an example of the
+00:05:39 formatted we'd like to see. And then
+00:05:41 finally, we end the prompt with make the
+00:05:43 content structured, engaging, and
+00:05:44 SEOfriendly. By the way, for an even
+00:05:46 better result, you can add some killer
+00:05:48 humanizing prompts. Make sure to watch
+00:05:50 my video, how I humanize chat GPT AI
+00:05:52 content, after you finish here. Link in
+00:05:54 the description. Now, the final touches.
+00:05:57 We can collect the output articles in
+00:05:58 Google Doc format. And sure enough,
+00:06:00 here's the articles nice and neat in a
+00:06:02 Google Drive directory. Let's open up
+00:06:04 one of these bad boys. This chicken and
+00:06:06 leak pie recipe looks pretty damn good.
+00:06:08 Does it taste good? I don't know. Do I
+00:06:10 sound like I'm from London? That said,
+00:06:12 the content is up to spec and ready to
+00:06:13 publish. Is it the best content on the
+00:06:15 internet? No, not even close. Is it the
+00:06:18 best chicken and leak pie content on the
+00:06:20 internet? Probably. You don't need to be
+00:06:22 freaking Shakespeare to write recipe
+00:06:23 content. That's the beauty of the
+00:06:25 system. You can turn out hundreds of
+00:06:27 articles for your non-critical content
+00:06:29 at scale to satisfy Google's topical
+00:06:31 authority algorithm while at the same
+00:06:33 time leaving your high priority sales
+00:06:35 and conversion pages to your human
+00:06:37 writers or a more sophisticated AI tool
+00:06:40 like Surfer AI. And now that you know
+00:06:42 the basic setup on how to integrate make
+00:06:44 with chat GBT with Google Docs with a
+00:06:46 prompt like this, you can also generate
+00:06:48 thousands of page titles according to
+00:06:50 your spec. Likewise, you can crank out
+00:06:52 meta descriptions with a prompt like
+00:06:53 this. We've also used a system to create
+00:06:56 really clever and custom link outreach
+00:06:58 emails at scale using this exact prompt.
+00:07:00 Though I would recommend using Grock for
+00:07:02 witty outreach emails. Grock is just way
+00:07:04 funnier. So what was the result of all
+00:07:06 this effort? My client's revenue
+00:07:08 increased from $166 to
+00:07:10 $491,000 per month with a monthly
+00:07:12 traffic increase of 266%. If you'd like
+00:07:15 us to take a look at your SEO, head on
+00:07:17 over to the searchinitiative.com and use
+00:07:19 the form at the bottom to reach out.
+00:07:20 That's it. We'd be happy to look at your
+00:07:22 site and let you know what we can do for
+00:07:23 you. $1,000 off your first month until
+00:07:25 the end of the month.

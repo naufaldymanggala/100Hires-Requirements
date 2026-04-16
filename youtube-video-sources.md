@@ -64,12 +64,12 @@
 
 ---
 
-## Video 6 — GiQu3JRUIEY
+## Video 6 — Answer Engine Optimization: How Jason Barnard Gained EEAT Credibility as an Award Winning Innovator
 
 - **YouTube:** https://www.youtube.com/watch?v=GiQu3JRUIEY
-- **Title:** [TITLE]
-- **Author:** [AUTHOR NAME]
-- **Channel:** [CHANNEL URL]
+- **Title:** Answer Engine Optimization: How Jason Barnard Gained EEAT Credibility as an Award Winning Innovator
+- **Author:** Jason Barnard
+- **Channel:** https://www.youtube.com/@jasonmbarnard
 - **Last checked:** 2025-04-15
 - **Annotation:** [ANNOTATION]
 - **Transcript:** 

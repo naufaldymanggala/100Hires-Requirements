@@ -97,7 +97,7 @@
 ## 10. Marie Haynes
 
 - **LinkedIn:** https://linkedin.com/in/marie-haynes
-- **YouTube:** https://youtube.com/@mariehaynes
+- **YouTube:** https://www.youtube.com/@Marie_Haynes
 - **Website:** https://mariehaynes.com
 - **Date added:** 2025-04-15
 - **Annotation:** Founder of Marie Haynes Consulting. Specialist in Google algorithm recovery and long-running research on how Google evaluates content quality. Recently active on AI agents applied to SEO workflows and AI Overviews / AI Mode. 96K+ Twitter/X followers. Key source for understanding the quality thresholds AI-produced content must meet to survive algorithm updates.

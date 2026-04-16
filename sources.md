@@ -76,8 +76,8 @@
 
 ## 8. Jason Barnard
 
-- **LinkedIn:** https://linkedin.com/in/jasonbarnard
-- **YouTube:** https://youtube.com/@jasonbarnard
+- **LinkedIn:** https://www.linkedin.com/in/jasonmbarnard/
+- **YouTube:** https://www.youtube.com/@jasonmbarnard
 - **Website:** https://kalicube.com
 - **Date added:** 2025-04-15
 - **Annotation:** Founder of Kalicube. Coined the term "Answer Engine Optimization" and built comprehensive systems for making brands legible to AI systems through entity optimisation and knowledge graph management. Hosts *The Jason Barnard Show* podcast. Essential source for understanding how AI content production intersects with brand entity strategy and structured data.

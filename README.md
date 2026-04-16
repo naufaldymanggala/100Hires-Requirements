@@ -1,6 +1,6 @@
 100Hires-Requirements
 What Tools I Installed: I installed Cursor IDE and two extensions — Claude Code and OpenAI (Codex) — within Cursor.
-
+---
 What Steps I Completed:
 1. Downloaded and installed Cursor IDE
 2. Installed the Claude Code and OpenAI extensions in Cursor
@@ -9,15 +9,15 @@ What Steps I Completed:
 5. Linked the GitHub account with Cursor
 6. Added a new repository on GitHub
 7. Cloned the repository to Cursor
-
+---
 What Issues I Ran Into:
 1. I couldn't find the Extensions option in Cursor, so I looked it up on Google. It turns out that pressing Ctrl+Shift+X opens the Extensions panel.
 2. I logged in to OpenAI/Codex without issues, but had trouble logging in to Claude Code because it requires a subscription.
 3. I had trouble connecting my GitHub repository to Cursor. I searched for help on YouTube and found a useful guide: https://www.youtube.com/watch?v=q0nGtPuciK4. Following it, I was able to clone my GitHub repositories to Cursor successfully.
-
+---
 What I collected:
 * I chose the topic "AI-powered SEO content production" and found 10 content creators. I watched their recent videos and got their transcript.
-
+---
 why I chose them:
 * Nathan Gotch — he built and sold SEO products (Rankability, Gotch SEO Academy), runs active client campaigns, and literally wrote the book on AI SEO. His YouTube content comes directly from what he's testing on real accounts, not theory.
 * Matt Diggity — owns and operates affiliate sites himself, runs an agency (The Search Initiative), and publishes experiment results with actual before/after data. He has financial skin in the game on every tactic he teaches.

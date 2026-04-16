@@ -1,0 +1,1594 @@
+00:00:00 Everybody built a website to talk to
+00:00:02 people and nobody built a website to
+00:00:05 talk to AI. And now we have to start
+00:00:07 thinking about how does our website look
+00:00:09 to AI? Yes. Is it [music] and and it
+00:00:12 comes down to just three things.
+00:00:14 >> Right now it feels like the entire
+00:00:15 marketing world is obsessed with GEO.
+00:00:18 Everyone's trying to figure out how to
+00:00:19 get mentioned in chat [music] GPT, but
+00:00:22 in reality a much bigger shift is
+00:00:24 happening. We are moving away from the
+00:00:26 chat interface
+00:00:28 >> [music]
+00:00:28 >> and into what I call and what many are
+00:00:30 calling the agentic web. If you're lost
+00:00:33 on what that means or how to prepare for
+00:00:35 it, you're in the right place. [music]
+00:00:37 Today we're going to break down a brand
+00:00:39 new Google blog post that outlines
+00:00:41 [music] the AI protocols that make
+00:00:44 things happen. Things like MCP and A2A
+00:00:48 and UCP and a bunch of other letters
+00:00:50 that really are going to be important
+00:00:52 for our future. This also marks the
+00:00:55 beginning of a new series that I'm
+00:00:57 calling real people using AI where I'm
+00:01:00 interviewing people from my community,
+00:01:03 the search bar, who are doing [music]
+00:01:05 real things with real clients in terms
+00:01:07 of AI. Today I'm sitting down with Liz
+00:01:10 [music] MySic, CEO content strategist
+00:01:14 and AI transition consultant to
+00:01:17 translate these developer protocols into
+00:01:19 actual [music] marketing strategy. If
+00:01:21 you want to be ahead of the majority of
+00:01:23 the industry, then stick with us. A
+00:01:26 whole [music] new discipline is
+00:01:27 unfolding right now, which means that no
+00:01:30 one in our industry is an expert yet.
+00:01:31 [music] So this is your opportunity to
+00:01:34 build an advantage. Liz, thanks for
+00:01:36 doing this and welcome [music] to the
+00:01:38 show. Thank you for having me, Marie.
+00:01:39 It's great to be here. Yeah, so We're at
+00:01:43 a topic that we both just yak away at
+00:01:46 all day. Yeah, so we were having a
+00:01:48 meeting in the search bar and we were
+00:01:50 talking about how do we communicate all
+00:01:53 of the changes that are happening to
+00:01:55 people who aren't in the community
+00:01:57 because like I really think that we're
+00:02:00 so focused on GEO, on like trying to
+00:02:03 appear in chat GPT when that's kind of a
+00:02:06 distraction, right? Like where do you
+00:02:08 see the web going? Well, in order to
+00:02:10 answer that I'm going to back up just a
+00:02:12 step. You know, when when you talk about
+00:02:14 people to talking about GEO, I always
+00:02:17 think about that old Jaws movie poster,
+00:02:20 you know, the one where the gal's
+00:02:21 swimming across on the top and he's
+00:02:23 coming up from the bottom. That's really
+00:02:25 what's happening with the web today and
+00:02:27 that's something that actually that's
+00:02:29 both new and very very old. I've been at
+00:02:32 this for quite a while, for about 28
+00:02:35 years I've been helping people as they
+00:02:37 move things on their website. This is
+00:02:39 mostly
+00:02:41 where I have specialized, if you will.
+00:02:43 Domain migrations, platform migrations,
+00:02:46 clean out the attic, clean out the the
+00:02:48 basement, straighten out your content
+00:02:50 strategy. So when I look at what's
+00:02:53 happening to the web today, I see us
+00:02:55 returning back to where we were in a lot
+00:02:57 of ways back in 2010, 2011 when things
+00:03:01 were just beginning to kick off for
+00:03:03 e-commerce and we thought that was the
+00:03:05 biggest revolution that was coming.
+00:03:07 Yeah. That was very tiny compared to
+00:03:09 what we're going to see, but in a lot of
+00:03:11 ways what we're seeing takes us right
+00:03:14 back to that beginning. So I think we're
+00:03:17 starting in a really good place with
+00:03:19 this series and with these conversations
+00:03:21 and understanding what's the protocols,
+00:03:24 what are the actual items we need to
+00:03:26 listen to and items we need to know and
+00:03:28 instead of trying to jump ahead to
+00:03:31 figure out how do I get to be number one
+00:03:33 in GEO and how do I rank in GEO or if
+00:03:37 how do I optimize myself for it, you
+00:03:39 realize it's much more of a business
+00:03:42 decision and a business understanding
+00:03:45 that needs to be made, a strategy.
+00:03:47 >> Google said in a blog post last year
+00:03:49 that every enterprise will rely on
+00:03:52 multiple agents and at the time like we
+00:03:55 really didn't have a concept of what
+00:03:57 that means and I still think we're still
+00:03:59 developing this concept of What does it
+00:04:01 mean? You know,
+00:04:03 will my website be replaced? I saw who
+00:04:06 was it? Yoost de Valk, the creator of
+00:04:08 Yoost
+00:04:09 >> Yes. WordPress Yes. put on X and on
+00:04:13 social media this weekend that he had
+00:04:15 switched his site from WordPress to a
+00:04:18 static Astro blog because now he can
+00:04:20 just do it all with AI, right? And
+00:04:24 that's one thing, being able to create
+00:04:26 things with AI, but I think what we're
+00:04:28 seeing this shift to is being able to
+00:04:31 actually do things with a business. Mhm.
+00:04:34 You know, and so what does that look
+00:04:36 like do, you know, instead of you coming
+00:04:38 to my website to read stuff, are you
+00:04:40 actually engaging with tools on my
+00:04:42 website? I can see it I can understand
+00:04:44 it for e-commerce, but I think that
+00:04:47 we're going to have a whole shift in the
+00:04:48 way that the web works for businesses
+00:04:51 that rely on transmitting information.
+00:04:54 So with
+00:04:56 >> with e-commerce. It started there
+00:04:58 already, but I think it's going to
+00:04:59 quickly spread throughout. And I and I
+00:05:02 think it's not just going to be
+00:05:04 enterprise, it's not just going to be
+00:05:06 this or that type of a website, it's
+00:05:08 going to be all sites that are affected
+00:05:10 by this, every single one of them. Part
+00:05:12 of what makes it so chaotic right now is
+00:05:14 that people don't understand what all of
+00:05:16 these acronyms and all of these two
+00:05:18 two-letter terms, three-letter terms
+00:05:20 mean. One of the biggest and I'm going
+00:05:22 to tee this up for you a little bit,
+00:05:24 Marie, because this is very much where I
+00:05:27 sit and where I'm working right now.
+00:05:29 There was a headline that was grabbed by
+00:05:32 Cloudflare, which is one of the the
+00:05:35 leading providers on the web, just a few
+00:05:37 weeks ago that said that now they are
+00:05:40 going to allow what's called a markdown
+00:05:43 version of your website
+00:05:44 >> Yes. Yes. consumed by agents and it it
+00:05:48 grabbed all of the headlines and it
+00:05:49 grabbed all of the attention, but we got
+00:05:52 to realize that kind of wrap our heads
+00:05:54 around what is it they're actually
+00:05:55 saying and what are they telling a
+00:05:57 business and what should a business
+00:05:59 owner, any business owner that happens
+00:06:02 to use this server level company, what
+00:06:06 should they worry about, what should
+00:06:08 they pay attention to, how much of it is
+00:06:10 in their control and how much is out of
+00:06:12 their control. Those are really the kind
+00:06:14 of questions and concerns that should be
+00:06:16 asking now. And what they did when they
+00:06:19 said, "Now you can get a markdown
+00:06:22 version of your site." What does that
+00:06:24 mean to a business? It means that when
+00:06:27 somebody's coming from chat GPT or from
+00:06:29 Claude and they've asked it a question
+00:06:32 and it's coming to your website, it's
+00:06:34 not consuming your website anymore.
+00:06:37 Yeah, yeah. It's getting its own version
+00:06:39 of it. Now that's what they did and
+00:06:42 Cloudflare has I I pulled up some stats
+00:06:45 here. They have approximately
+00:06:47 21, 22% of the entire market, all
+00:06:51 websites use that service.
+00:06:54 There are three others. You may have
+00:06:55 heard of these. AWS is another one,
+00:06:59 Google is another one and Akamai is the
+00:07:02 third. So each one of these big
+00:07:05 providers, web providers, and that's
+00:07:07 pretty much going to be 100% of the
+00:07:09 market there. That's not just
+00:07:10 e-commerce, that's not just this, it's
+00:07:13 every business has to make some pretty
+00:07:16 quick decisions about this and about how
+00:07:19 they're going to react to that. Yeah.
+00:07:22 What Cloudflare said is you can allow
+00:07:26 these agents to use your information to
+00:07:29 train on or not.
+00:07:30 >> I I don't
+00:07:31 understand. I think I saw, was it
+00:07:34 Frederick de Boo from Bing, I think,
+00:07:37 saying that it doesn't make sense to
+00:07:39 have a separate version in markdown for
+00:07:42 for, you know, because I mean this is a
+00:07:44 whole other conversation that we could
+00:07:46 probably have a whole hour conversation
+00:07:47 about because then you have to maintain
+00:07:50 two versions of your site and you know,
+00:07:53 and and we're supposed to be creating
+00:07:55 content and web pages for humans. So
+00:07:58 what happened?
+00:07:59 >> Uh-huh. Yes. I think I think that
+00:08:02 markdown is kind of like an
+00:08:04 intermediary. Like we will have a layer,
+00:08:06 which is what we're going to talk about
+00:08:07 these protocols
+00:08:09 that help agents communicate with the
+00:08:12 tools on our website and the
+00:08:13 functionality of our website. I don't
+00:08:15 know that having a set like a page just
+00:08:17 in markdown for bots is the way to go.
+00:08:21 Well,
+00:08:22 >> I don't know. What do you think? I think
+00:08:23 he's already lost that war. And I'd say
+00:08:26 you you've already lost that one, folks.
+00:08:28 And it comes back to and comes down to
+00:08:31 simple economics. It costs a lot of
+00:08:33 money, not for you, not for me
+00:08:35 necessarily. I mean, we're going to pay
+00:08:38 it ultimately in our subscription bill
+00:08:40 to Cloudflare or to Google or to
+00:08:42 whomever, but it costs a lot of money
+00:08:45 for Anthropic or OpenAI or Google itself
+00:08:50 to send that bot
+00:08:52 to Mhm. read your content and read your
+00:08:56 human-made website. They have a hard
+00:08:59 time. They have a really hard time
+00:09:00 parsing this and pasting together that.
+00:09:03 But if you give them a markdown, that
+00:09:05 saves them up to 80% of the cost in
+00:09:09 tokens.
+00:09:10 Good point.
+00:09:11 >> So I think it's still yeah, I think it's
+00:09:13 still developing.
+00:09:15 I think that the things that we need to
+00:09:17 communicate to language models will
+00:09:19 happen through agent-to-agent and MCP
+00:09:22 and and web MCP, which I we're not going
+00:09:24 to get into a whole lot
+00:09:26 in this episode. But the reality is that
+00:09:29 everything is changing, right?
+00:09:31 And when we like when I first got into
+00:09:33 SEO, I could kind of learn from people
+00:09:36 like you who had been in for longer than
+00:09:38 me, you know, and say, "Well, here's the
+00:09:40 standard of how things are done and I'm
+00:09:42 going to learn how to do that." But now
+00:09:44 we're in this place where nobody knows
+00:09:47 nobody knows what's coming. I don't even
+00:09:48 think Google knows how the agentic web
+00:09:51 is going to unfold.
+00:09:53 So what a an interesting time to to be a
+00:09:55 marketer, right? There's just so much to
+00:09:57 know. So, when you're in a a
+00:10:00 time of chaos and you really don't know
+00:10:02 what's coming next, what can you do? A
+00:10:04 lot of companies, a lot of people I've
+00:10:06 talked to are just sort of saying, "I'm
+00:10:08 just going to sit and wait. I'm going to
+00:10:09 let it sort itself out. I don't want to
+00:10:12 jump in too fast, too far." And then
+00:10:14 there's the other side of the coin
+00:10:15 that's saying, "If I don't get into AI
+00:10:17 this week, I'm going to lose
+00:10:19 everything." Yeah, there are an awful
+00:10:21 lot of those headlines going back and
+00:10:23 forth. But the reality is,
+00:10:27 no matter
+00:10:28 how it ultimately turns out, no matter
+00:10:31 how it ultimately works its way into the
+00:10:34 future, you're always going to have to
+00:10:36 keep up and keep doing something. And in
+00:10:40 this case, for the every single business
+00:10:42 I can think of, that something is going
+00:10:45 to be taking a good hard look at
+00:10:47 yourself and a good hard look at your
+00:10:49 website.
+00:10:51 And
+00:10:53 as as I say, uh everybody built a
+00:10:56 website to talk to people. And nobody
+00:10:58 built a website to talk to AI. And now
+00:11:01 we have to start thinking about how does
+00:11:03 our website look to AI? Yes. Is it And
+00:11:07 And it comes down to just three things,
+00:11:09 and what's old is new again. Can you be
+00:11:12 found? Can an agent find you? Once they
+00:11:15 can find you, can they understand you?
+00:11:17 And then, if they find you and they
+00:11:20 understand you, can they trust you?
+00:11:23 So, what you need to do is you need to
+00:11:25 make sure your website is clear. You
+00:11:27 need to make sure it's complete. And you
+00:11:29 need to make sure it's consistent. Your
+00:11:31 web presence across all of your sites is
+00:11:33 consistent. Yes. So, lots of we don't
+00:11:36 know if whether an A to A or an A to UI
+00:11:40 is the correct way to go today, and
+00:11:42 we're going to you can explain what
+00:11:44 those are to people.
+00:11:46 But whether or not it is, it's sort of a
+00:11:48 is my site ready for whatever comes
+00:11:51 next.
+00:11:52 >> Exactly. So, we're going to dig into
+00:11:54 this blog post that Google published.
+00:11:56 And they published it for developers.
+00:11:59 And so, at first look, when you look at
+00:12:00 this blog post, a lot of people are
+00:12:02 going to be like, "Well, this is not for
+00:12:03 me. It's far too complicated. They're
+00:12:05 talking about using Google's Agent
+00:12:07 Development Kit, which is really cool,
+00:12:09 but also like I've struggled to use it
+00:12:12 even with the help of language models
+00:12:14 coding. But what I saw when I read this
+00:12:17 blog post was there's a really nice
+00:12:19 description of the different protocols
+00:12:21 that we need to be aware of. So, my goal
+00:12:24 in this talk is
+00:12:28 not
+00:12:32 But I think that our goal, um and this
+00:12:34 is what I'm telling my clients, is I
+00:12:36 think it's a little bit too early to be
+00:12:38 taking very much action right now. But I
+00:12:41 think that we need to be understanding
+00:12:43 what the protocols are and playing with
+00:12:46 them. You know, practicing putting them
+00:12:48 into place. And then, as the web
+00:12:51 develops into this agentic web, we're
+00:12:53 coming from a place of understanding and
+00:12:55 not being totally lost. Does that make
+00:12:58 sense? It does, and I'm not sure I agree
+00:13:00 with you totally, but I think that
+00:13:02 probably the best way to explain what
+00:13:04 can be done right now because I think
+00:13:07 some things must be done. Okay. Okay. It
+00:13:11 will be to look at each of these
+00:13:12 protocols as you break them down. And
+00:13:14 then maybe we can say, "Here's how it
+00:13:16 practically affects you a little bit
+00:13:19 better." Excellent. Yes. Yes. Okay. So,
+00:13:22 this is the blog post. I'll put the link
+00:13:23 in the description for anybody who wants
+00:13:26 to read it yourself. And I think you
+00:13:28 should. I I think that every marketer
+00:13:30 really should be familiarized with this.
+00:13:32 They're giving a scenario where they're
+00:13:35 using Google's Agent Development Kit to
+00:13:37 create
+00:13:39 a restaurant agent. It's one that can go
+00:13:41 out and can buy supplies and can can do
+00:13:44 a bunch of things agentically. I'm not
+00:13:46 again so worried about how uh the whole
+00:13:50 ADK is working together, but we want to
+00:13:52 look at each of these components. So,
+00:13:54 the first one that they talk about
+00:13:56 is MCP, Model Context Protocol.
+00:14:00 And uh I I think it's really funny. If
+00:14:01 you ask a couple months ago, if I asked
+00:14:05 any of the language models what MCP was,
+00:14:07 none of them knew. Like they they would
+00:14:09 make up some other acronym. And uh And
+00:14:12 this is so it's brand new stuff. But MCP
+00:14:15 seems to be what's going to be like the
+00:14:18 next way that uh
+00:14:20 agents communicate with the tools on our
+00:14:22 website. Liz, can you share your
+00:14:24 understanding of what MCP Okay. Now,
+00:14:27 this is where it gets tough. Yeah, this
+00:14:30 is where everybody gets put on the spot
+00:14:32 a little bit. When I first heard MCP, I
+00:14:34 just thought, "Oh, that's another name
+00:14:36 for for an API. It's another name for
+00:14:38 how you how you consume the data." And
+00:14:42 it's
+00:14:44 uh it
+00:14:45 it is that and more. Now I Now I
+00:14:48 understand it as an MCP is a wrapper
+00:14:51 around that pipe. And it's sort of it's
+00:14:54 it's not just the tool, but it's the
+00:14:56 information itself. It's not getting
+00:15:00 everything through a firehose. It's
+00:15:02 being more selective in what you are
+00:15:04 pulling back and what you are using. And
+00:15:06 Marie, I think you actually do a far
+00:15:08 better job than I do at explaining these
+00:15:12 things. But But I think now
+00:15:16 the important thing I tell people to
+00:15:17 understand about Model Context
+00:15:19 Protocols, MCPs, is that they are
+00:15:23 proliferating everywhere. Everybody's
+00:15:25 got their own. And everybody is trying
+00:15:27 to roll their own flavor. And it's it's
+00:15:29 really you know, what are you trying to
+00:15:31 connect to? Are you using it to connect
+00:15:34 to your analytics? Are you using it to
+00:15:36 connect to your payment systems? Are you
+00:15:38 using it to connect to something else?
+00:15:41 Each one of those is going to have a
+00:15:42 slightly different wrapper around and
+00:15:45 and slightly different different
+00:15:47 definition.
+00:15:49 Yeah. Oh, that's good. I think And I
+00:15:51 think where it gets a bit confusing is
+00:15:53 there's MCP and then there's Web
+00:15:55 >> Now, that's what I was going to just ask
+00:15:57 you, right? And And so, uh I've just
+00:16:00 brought up Google's documentation here
+00:16:02 on MCP, an open-source standard for
+00:16:05 connecting AI applications to external
+00:16:07 systems. Uh My understanding is that uh
+00:16:10 MCP is basically a way for AI to
+00:16:14 communicate with the tools that are
+00:16:15 available on my website. Uh or or from
+00:16:18 my business. It doesn't necessarily need
+00:16:20 to be on your website. So, one example
+00:16:22 would be um Ahrefs has an MCP. And if
+00:16:26 you are using Claude or ChatGPT uh or,
+00:16:30 you know, I love to use Antigravity and
+00:16:33 and I use mostly Gemini and Antigravity.
+00:16:36 You can connect to the MCP, which says
+00:16:39 uh instead of me writing out the exact
+00:16:41 code to communicate like from Ahrefs, if
+00:16:44 I want to get the backlinks for a site,
+00:16:46 there's a particular line of code that I
+00:16:48 need to write to say, you know, find me
+00:16:50 a thousand backlinks and in this order
+00:16:53 and and that type of thing. With MCP, I
+00:16:55 can just say it in natural language. I
+00:16:58 can know I can have a general idea of
+00:17:00 what I can get from the tool. And then
+00:17:02 MCP communicates my go get the backlinks
+00:17:05 to this website into the code that's
+00:17:08 needed to speak to the API. Does that
+00:17:10 make sense? Does that Yeah. Oh, yeah.
+00:17:12 what you're Yeah. I do the same thing
+00:17:14 with Semrush.
+00:17:15 Yes. Everybody's got their own
+00:17:18 tech stack, if you will. And we all use
+00:17:21 our our our favorites.
+00:17:23 But what I wanted to ask you,
+00:17:25 Marie, could you
+00:17:27 elaborate a little bit on what you think
+00:17:30 you have said in the search bar that you
+00:17:32 think that Web MCP is going to be the
+00:17:35 winner. I do. It's going to take over.
+00:17:37 Now, talk a little bit about that
+00:17:39 because we've got Cloudflare that says,
+00:17:42 "Here are your options. You can go all.
+00:17:45 You can go nothing. Or you can,
+00:17:47 depending on your subscription level,
+00:17:50 choose whether you want to turn on this
+00:17:52 or that or that or that. MC Web MCP is
+00:17:55 Google's option, Google's for flavor of
+00:17:59 that, isn't it? Or is it more than that?
+00:18:01 open protocol. Now, I should say
+00:18:06 right here that for anybody who's
+00:18:08 watching this, and Liz and I are trying
+00:18:10 to figure it out. Yes. say something
+00:18:12 that is wrong or you're like, "No, no,
+00:18:14 Marie, it's not that way." Like leave a
+00:18:16 comment. You leave it respectfully. Um
+00:18:18 but like leave a comment to help the
+00:18:20 industry know where we're going. So, I
+00:18:23 think there's a bit of confusion because
+00:18:25 uh again, Web MCP and MCP are are kind
+00:18:28 of two separate things. Um and I think
+00:18:30 Web MCP uh kind of deserves its whole
+00:18:33 own episode to talk about. Okay. There's
+00:18:37 Web MCP can be for like the example that
+00:18:40 they give is let's say you run a travel
+00:18:43 website and you're helping people book
+00:18:44 flights. Uh and so uh in like right now,
+00:18:49 I would go to your website, I would fill
+00:18:50 out a form, and and then I would get
+00:18:53 information back based on what I put in
+00:18:55 that form. Web MCP lets my agent do
+00:18:58 that. And my agent might be ChatGPT,
+00:19:02 Claude, an open-source, maybe it's a an
+00:19:04 open claw uh situation. Um or it might
+00:19:08 be AI mode. Uh like I I I think that
+00:19:11 that's where things are headed. Um but
+00:19:14 then there's another part of Web MCP
+00:19:16 that I think we haven't even really
+00:19:18 conceived of yet. And that's where uh
+00:19:21 So, I'm building a bunch of agents for
+00:19:22 SEO, and today I use them for my
+00:19:25 workflow. I haven't made, you know, I'm
+00:19:27 like, "Am I going to make this a
+00:19:28 dashboard that maybe my community uses?
+00:19:31 Am I going to sell this as a SaaS tool?"
+00:19:33 Well, probably what will eventually
+00:19:35 happen is it'll all be available via Web
+00:19:37 MCP. And so, instead of going to my
+00:19:40 website and saying, "How does Marie uh
+00:19:43 put this, you know, um
+00:19:47 content uh organizing agent to use?"
+00:19:50 You'll basically tell your agent, go
+00:19:52 connect with Marie's agent. And Web MCP
+00:19:56 will will do that. And so your agent is
+00:19:59 talking to my agent. I think it's very
+00:20:01 much like the way businesses work. That
+00:20:03 if I want to interact with a business,
+00:20:05 I'm not really interacting I'm not
+00:20:07 interacting with the owner of that
+00:20:08 business. I'm operating interacting with
+00:20:11 an agent that's operating on their
+00:20:14 behalf. Um and so and you know, that's
+00:20:16 kind of where things are. Um I think at
+00:20:19 this point we'll just kind of leave MCP
+00:20:21 there because there's a lot to be known.
+00:20:24 Uh the Chrome 146 just came out and you
+00:20:27 can turn on there's a flag you can turn
+00:20:30 on to test Web MCP. My early tests like
+00:20:34 it's not anywhere on the web. Um it it
+00:20:37 it's coming and I think it's something
+00:20:38 to play with. Maybe it's something that
+00:20:40 we need to do another episode on.
+00:20:43 Well, I'm glad you you teed that up the
+00:20:45 way you did because honestly when I went
+00:20:48 through and I'm looking at all of these
+00:20:50 other protocols and I see you're sharing
+00:20:52 on the screen agent to agent. It's
+00:20:55 really, you know, MCP or Web MCP
+00:20:58 uh sounds like it's going to include and
+00:21:02 encapsulate a couple of these agent to
+00:21:05 agent being the biggest. You know, how
+00:21:07 does your agent then talk to my agent?
+00:21:11 Exactly.
+00:21:12 >> Exactly. And as a as a business Yeah,
+00:21:14 that's A2A. What does as a business
+00:21:17 owner I need to decide what my agent can
+00:21:21 say to yours and what it will accept and
+00:21:25 what it will negotiate and what it won't
+00:21:27 negotiate. Yeah, they're all sort of,
+00:21:29 you know, mind-blowing things right now,
+00:21:32 but in terms of practical terms of what
+00:21:34 you're doing on your web today, how do
+00:21:37 you do that? How do you start that? You
+00:21:40 start that by teaching your agent
+00:21:44 what your website and what your products
+00:21:46 and what your business is all about. You
+00:21:48 train it on your information.
+00:21:51 And you know, way back in the beginning
+00:21:54 we always talked about garbage in
+00:21:56 garbage out.
+00:21:57 You know, AI agents or AIs came on the
+00:22:01 scene and we talked about
+00:22:02 hallucinations.
+00:22:04 A lot of that is actually born and
+00:22:07 buried in your website today. Yeah,
+00:22:10 yeah. I think and I've seen people say,
+00:22:13 oh, the AI overview is showing the wrong
+00:22:16 information for my business, but it's
+00:22:18 pulling it from somewhere on the web,
+00:22:20 right? And the vast majority of the
+00:22:22 time, I think you can still kind of
+00:22:24 trick AI overviews into saying silly
+00:22:26 things, but for the vast majority of
+00:22:30 legitimate queries where people are
+00:22:32 going to ask Google for this
+00:22:33 information, it's actually not an AI
+00:22:36 problem when it hallucinates. It's just
+00:22:38 that
+00:22:39 your your information's not correct on
+00:22:41 the web. Exactly.
+00:22:43 Yeah, I was asking I was doing a vanity
+00:22:46 search about like what I'm known for and
+00:22:49 it always You can always tell when
+00:22:51 somebody makes their list of like the
+00:22:52 best SEOs to follow, which I'm honored
+00:22:54 to be on a lot of those lists,
+00:22:57 but you can tell when they've just
+00:22:58 completely used AI because it'll say
+00:23:01 that I'm known for my expertise in
+00:23:03 Google penalties, which is something
+00:23:05 like I have not I haven't done a manual
+00:23:07 action in in years
+00:23:09 and but it's still on my website and so
+00:23:13 it's pulling it's my fault. It's pulling
+00:23:15 from my website and and so I think if
+00:23:18 you want to be known for certain things,
+00:23:21 yeah, being clear on your website is the
+00:23:23 way to go.
+00:23:24 >> And there are so many horror stories
+00:23:26 that I could tell about that. You know,
+00:23:27 I mean
+00:23:28 like I said, I've been at this for 28
+00:23:30 years and and it's like, I'm
+00:23:33 encountering things that we haven't used
+00:23:35 in the web since 2015,
+00:23:38 but they're still out there on a
+00:23:40 website. They're still buried in your
+00:23:43 CMS. They're still out there on another
+00:23:46 site like a G2 site
+00:23:49 a review site or a directory that you
+00:23:51 put something out on. You know, so when
+00:23:54 we talk about you know, we got a lot of
+00:23:55 clean up to do before we're ready to
+00:23:58 really show ourselves to
+00:24:01 to agents. Yeah,
+00:24:03 you made me think of Google's mission.
+00:24:05 Do you know what Google's mission
+00:24:06 statement is?
+00:24:07 I'm putting you on the spot.
+00:24:09 Used to be something akin to, you know,
+00:24:11 first do no harm, but that's not their
+00:24:14 mission.
+00:24:15 >> No, their mission statement is to
+00:24:16 organize the world's information and
+00:24:18 make it accessible and useful.
+00:24:21 And and when you think about it like the
+00:24:24 like I always think about when I used to
+00:24:25 go to the library when I was a kid, you
+00:24:27 know, like and you had to go physically
+00:24:29 go there. You had to look up the card
+00:24:31 catalog to find whatever book you were
+00:24:34 trying to find. You had to go down the
+00:24:35 aisle and like, you know, read in
+00:24:37 alphabetical order and get that book and
+00:24:39 then open that book, maybe take it home
+00:24:41 and get information. And like today,
+00:24:44 whatever I want, it's right in front of
+00:24:46 me, you know? It's
+00:24:47 just amazes me. I think we take for
+00:24:49 granted just how how how good of a job
+00:24:53 Google does. I know that's not going to
+00:24:55 be popular with a lot of people. I think
+00:24:57 there's still a lot of room for
+00:24:59 improvement, but this is the next step,
+00:25:01 you know? We're going to look One day
+00:25:03 we're going to look back at like,
+00:25:04 remember that time when we used to have
+00:25:06 to put our our fingers on plastic keys
+00:25:08 and open up something called a search
+00:25:11 engine to to find information. Like it
+00:25:14 will just all be there when we need it.
+00:25:16 And we won't talk in this episode on
+00:25:18 brain-computer interfaces, but that's
+00:25:20 where things go kind of wild. Before we
+00:25:23 get there, let's let's talk about A2A.
+00:25:25 Mhm. So
+00:25:26 again, this is from Google's blog post
+00:25:28 that agent to agent standardizes how
+00:25:30 agents not only communicate with each
+00:25:32 other, but discover each other. And I
+00:25:35 I'm going to pull over this
+00:25:37 Oh, let's see here. Share this tab
+00:25:39 instead. This is an example from Google
+00:25:41 on an agent card. And so when you have
+00:25:44 an agent on your website, every agent
+00:25:47 will have a card, which is just JSON,
+00:25:49 really simple language to understand.
+00:25:52 And the card advertises what the agent
+00:25:55 does. So when we first started talking
+00:25:57 about A2A, my clients were like, well,
+00:25:59 how would anybody know that we have an
+00:26:01 agent? And so I don't know. I think that
+00:26:04 this will be a part of how Google crawls
+00:26:07 the web. When when they look at your
+00:26:09 website, they will probably also see
+00:26:11 that, oh yes, you have these agents that
+00:26:14 do these things. And in this example, so
+00:26:17 every agent has a name, a description of
+00:26:20 what they can do and this description is
+00:26:22 super important. Um you know, this is
+00:26:25 not a very good example here, just a
+00:26:26 hello world agent, but this description
+00:26:29 really matters. And then where the agent
+00:26:31 can be found. Hopefully it's not
+00:26:34 localhost. That would be very difficult
+00:26:36 that's [laughter] if it's just sitting
+00:26:37 on your computer. And um and then this
+00:26:40 right here, the capabilities of the
+00:26:42 agent and what it can do and the skills
+00:26:45 of the agent. Like don't worry right now
+00:26:47 if you don't understand what those
+00:26:49 things are, but this is the basic
+00:26:51 understanding that we need is to know
+00:26:53 that an agent I should actually back up
+00:26:56 and explain what an agent is. So an
+00:26:59 agent is really just a prompt that has
+00:27:02 capabilities, that can use tools, can
+00:27:05 accomplish something. It doesn't
+00:27:07 necessarily have to work autonomously
+00:27:09 like some agents will. When you do code
+00:27:11 with Claude code or Codex or whatever
+00:27:14 you're using, that's agentic. That's an
+00:27:16 agent doing code like working
+00:27:18 autonomously for you. Um but really
+00:27:21 agents are just AI prompts that have the
+00:27:23 ability to use tools for you. So I don't
+00:27:25 know, you have anything to add there,
+00:27:27 Liz, in terms of agents? No, I I think
+00:27:31 we kind of talked about it first and
+00:27:33 then gave the definition.
+00:27:35 >> Yeah, yeah, I think we were we were in
+00:27:37 it. Um so we're going to skip over their
+00:27:40 use of agent to agent in ADK because
+00:27:43 we'll be here all day otherwise and I
+00:27:45 think we have again lots of opportunity
+00:27:47 for future episodes. Um let's talk just
+00:27:50 briefly about Universal Commerce
+00:27:51 Protocol because my next episode is
+00:27:54 going to be with Andrea Lee from the
+00:27:57 search bar
+00:27:58 who is going to be talking all about UCP
+00:28:01 and this is huge. So Liz, do you want to
+00:28:04 explain your understanding? I think I
+00:28:06 think you have a good understanding of
+00:28:07 what UCP is. Well, just just like
+00:28:11 I can't wait for your discussion with
+00:28:13 Andrea. She's she's got this nailed. She
+00:28:17 has this area down pat. But UCP is like
+00:28:21 we've talked about with the with the
+00:28:23 MCPs, this is
+00:28:26 really how commerce will be done. This
+00:28:29 is the cart step, if you will, the cart
+00:28:33 that's coming. And it's actually not
+00:28:36 coming anymore. It is already here. It
+00:28:40 is here. And a lot of people in a lot of
+00:28:43 ways, again, a business owner does not
+00:28:46 need to pay attention to this cuz if you
+00:28:48 are on Shopify
+00:28:50 >> for example, if your store is on Shopify
+00:28:52 right now, they're already figuring all
+00:28:54 this out for you. And it will all be
+00:28:57 sort of seamless and there in the
+00:28:58 background and it's it's how your agent
+00:29:01 will make the actual purchase.
+00:29:03 Um and unfortunately, you're not being
+00:29:06 given a whole lot of options to say,
+00:29:08 yeah, but I don't want exactly that yet,
+00:29:11 you know? There's they're working out
+00:29:13 the basics and then we'll get to the
+00:29:15 nuance above it. And that's that nuance
+00:29:19 step in between is right now it's, hey,
+00:29:22 we're putting on a new Shopify store
+00:29:26 that is a store of all stores.
+00:29:29 Do you want to be in there or do you
+00:29:31 not?
+00:29:31 >> Yeah, yeah. Are you there or are you
+00:29:33 invisible?
+00:29:34 And the the wild thing with UCP is that
+00:29:37 I I don't even think the average user of
+00:29:40 Google will understand what's happening
+00:29:42 other than, look, I can click buy now
+00:29:45 right from AI mode, right from Gemini. I
+00:29:49 I noticed I was searching for some
+00:29:51 things. I was asking Gemini some things
+00:29:52 this weekend and it started to give me
+00:29:54 product listings. Now, I didn't have UCP
+00:29:57 in there yet, maybe because I'm in
+00:29:58 Canada. I think it's just in the US for
+00:30:01 now. I'm not sure about that because I
+00:30:04 saw that Loblaws, which is a a big
+00:30:06 grocery chain in Canada, is implementing
+00:30:09 UCP. But what people will see is right
+00:30:12 in AI mode a button to say buy now. Yep.
+00:30:16 Yep.
+00:30:16 >> Google just announced last week that now
+00:30:19 you can add the ability to build a cart.
+00:30:22 And you can add bundles. So, you know,
+00:30:25 there's a lot of, you know, that was one
+00:30:27 of the hindrances of UCP was like it's
+00:30:29 rare that you want to buy just one
+00:30:31 thing, you know, often you're wanting.
+00:30:33 But then when you think like if I can
+00:30:34 make a cart, can I make a cart from
+00:30:37 multiple websites? There you go. That's
+00:30:40 it. Now
+00:30:40 >> Yeah. I brought up the Shopify example
+00:30:43 because I did, you know, so many people
+00:30:45 have jumped immediately to the they're
+00:30:47 going to do away with my store. I don't
+00:30:49 they aren't going to need me at all on
+00:30:51 the web anymore. Google's going to go
+00:30:53 directly to the manufacturers and all
+00:30:55 the websites are No. No, they're not
+00:30:57 going to disappear. We are not our our
+00:31:01 known e-commerce world is not going to
+00:31:04 instantly disappear in 6 months because
+00:31:07 of this protocol. You know, you're
+00:31:09 always going to have those options and
+00:31:12 those places and and Andrea's got the
+00:31:15 perfect setup.
+00:31:18 I don't want to give away her anything
+00:31:19 on what she's going to talk about, but
+00:31:21 there are bespoke stores versus
+00:31:25 commodity operations. And there's a huge
+00:31:28 world in between there and what we're
+00:31:30 going to be doing is this sort of
+00:31:32 flipping the levers up and down on what
+00:31:35 I I'm I'm approaching this whole
+00:31:37 conversation today, Maria, is I'm a
+00:31:39 business owner. What do I need?
+00:31:42 >> Yeah. Yeah, yeah. What do you think? I I
+00:31:44 know we're we're overlapping with what
+00:31:46 I'm going to talk about next time, but
+00:31:47 what do you think a business owner
+00:31:48 should do about UCP? Like if they and
+00:31:52 clearly if you're on if you're a Shopify
+00:31:54 site, it's kind of it's already there.
+00:31:56 You don't need to do anything. It's it's
+00:31:57 already set up. But what if you're not
+00:32:00 Shopify? Should you be trying to
+00:32:02 implement it? What do you think?
+00:32:03 >> UCP, you know, is is directly affecting
+00:32:06 stores in e-commerce right now. But
+00:32:08 every single business is going to have
+00:32:10 to answer this same question. And that
+00:32:13 question is what is my business? What is
+00:32:17 my unique value to the world? And is it
+00:32:21 unique enough so I the the phrasing I
+00:32:24 see out there a lot of times today is
+00:32:27 moat. Do you have a big enough moat
+00:32:29 around your business, around your
+00:32:31 castle, if you will? And there are going
+00:32:34 to be some businesses who say, yes, I am
+00:32:37 absolutely unique. I am me. I am not
+00:32:40 going anywhere. I've got a big moat and
+00:32:42 I don't need to to participate in this.
+00:32:46 But the majority are going to be
+00:32:49 Fine, see you later. And then there are
+00:32:51 going to be some people who say, I do
+00:32:53 have a unique value over here, but I
+00:32:56 still want to allow for that that a
+00:33:00 causeway so that you can come to my
+00:33:03 castle and you can see what I've got and
+00:33:05 you can deal with me here. And I think
+00:33:07 that's where the majority of us are
+00:33:09 going to live for the next 3 years.
+00:33:12 Yeah, I think it's going to be really
+00:33:14 interesting time for e-commerce because
+00:33:17 if you are known for your products and
+00:33:19 you're a place where people go to buy
+00:33:21 stuff, like this is going to be good.
+00:33:23 You're going to be able to sell more.
+00:33:24 People won't need to go to Amazon to
+00:33:26 find products that like I know if I go
+00:33:28 to Amazon and I have Amazon Prime, I can
+00:33:31 just click a button then it's at my
+00:33:32 house the next day. As you know,
+00:33:36 a lot of brands are going to sell
+00:33:37 directly from their website.
+00:33:40 You know, well not from their website,
+00:33:42 from from the search results, but
+00:33:45 pulling from your inventory and and, you
+00:33:47 know exactly.
+00:33:48 >> Exactly. But then I worry about there
+00:33:50 are a number of businesses that have
+00:33:53 really thrived and grown because of SEO
+00:33:56 and really there's not a lot that's
+00:33:59 special about these businesses. They
+00:34:00 don't have a moat. They have they they
+00:34:03 had this understanding of how Google
+00:34:06 works. And maybe, you know, they had
+00:34:08 ways to find good links and they had
+00:34:11 like really good SEOs to make them stand
+00:34:13 out. When I think what's going to make
+00:34:15 you successful in this next era is
+00:34:18 number one, being known for your topics.
+00:34:21 Number one and number two, having a good
+00:34:23 price. And then number three, being
+00:34:25 known for your customer service and
+00:34:27 shipping. And my agent, when I want to
+00:34:29 buy something, is not going to give me a
+00:34:32 list of 20 places to buy from. It's
+00:34:34 going to be like, all right, Maria, I
+00:34:36 know that your priorities are shipping
+00:34:39 and quality. And then it will find the
+00:34:41 best result for me and eventually my
+00:34:44 agent will go ahead and buy it, which
+00:34:45 we're going to talk about AP2 in a in
+00:34:47 That's actually a good segue there.
+00:34:49 Yeah, well, but but eventually is the
+00:34:52 key phrase there. Yes. And and in that
+00:34:55 in the meantime, there are things you
+00:34:57 can do to make your moat stronger. There
+00:35:01 are things you can do to make your
+00:35:03 business more unique and sa- sounding
+00:35:06 more unique to these agents. And they're
+00:35:08 not new things. And that's what I keep
+00:35:11 keep saying over and over again. It's
+00:35:13 the same thing we have always worked on.
+00:35:16 How clear is our content semantically?
+00:35:20 Can it be under Can it be found by those
+00:35:23 agents? Can it be understood by those
+00:35:26 agents? And then can they trust you?
+00:35:28 That's the what's my uniqueness? What is
+00:35:31 my value? That's where they come back to
+00:35:33 this. And I don't think they're going to
+00:35:35 come to you, Maria, and say, okay, I
+00:35:37 found one thing. They may come to you
+00:35:40 and say, okay, here are the top three or
+00:35:42 four or
+00:35:44 >> Perhaps.
+00:35:45 You said you wanted this, but, you know,
+00:35:47 this was also one of the um
+00:35:52 What's the word I want?
+00:35:54 Requirements on your list.
+00:35:55 >> Yeah, yeah, yeah. Yeah.
+00:35:56 >> for. Yeah.
+00:35:57 >> And that one fails on this, but this one
+00:35:59 has this. And so if you are clear, if
+00:36:03 you are complete, if you are consistent,
+00:36:05 you have the table stakes to be in that
+00:36:09 game. Yeah, I think UCP I'm most excited
+00:36:12 for it in a world where we have glasses.
+00:36:15 And that's a whole other discussion
+00:36:16 again. Not this one. I mean AI glasses,
+00:36:19 right? That
+00:36:20 I'm in my garden and I'm like, oh no,
+00:36:22 there's a bug on my plant, you know, and
+00:36:24 I and I tap my glasses and ask Gemini
+00:36:26 and Gemini's like, oh, looks like you
+00:36:28 have aphids or or whatever, right? And
+00:36:31 then if if I'm like, can I get a product
+00:36:34 for that? Gemini's going to
+00:36:36 go ahead and find me the product. Like
+00:36:38 it could say, well, here's three
+00:36:40 different options, you know, do you want
+00:36:43 to search and I'm like, I just want
+00:36:45 spray and I want it as fast as I can get
+00:36:47 it. And then
+00:36:49 I saw an announcement today about Google
+00:36:51 making
+00:36:53 advancements in drone delivery, you
+00:36:56 know, and so we're we're coming. I like
+00:36:58 I'm looking way into the future, but we
+00:37:00 are coming to a world where when I want
+00:37:02 something and I see it in the real
+00:37:04 world, I just ask my agent. My agent
+00:37:06 buys it and it appears on my doorstep or
+00:37:09 in my yard if it's drone delivery. So,
+00:37:12 interesting times. I I think for now
+00:37:15 I've been telling my clients to be aware
+00:37:16 of UCP. I have one e-com client that is
+00:37:20 trying to implement it.
+00:37:23 My thought is is it's it's a developing
+00:37:25 protocol. Google said in their earnings
+00:37:27 call that it was a major focus for them
+00:37:30 in 2025, developing UCP. So, it's not
+00:37:33 just a fly-by-night thing. Like it's
+00:37:35 it's it's going to be here for for the
+00:37:37 long term. But I think that it will have
+00:37:40 some bugs and will take some working
+00:37:42 out.
+00:37:43 I think you could say that about all of
+00:37:45 these. For sure. Yeah. Yeah. Mhm. So,
+00:37:49 let's move on to the the next then. And
+00:37:52 this is, you know, okay, so if my agent
+00:37:54 is going to your e-commerce site to buy
+00:37:57 something, how does it negotiate the
+00:37:59 payment? And that's where there are
+00:38:01 multiple protocols here. So, we're going
+00:38:03 to talk about Google's AP2 and then
+00:38:06 Stripe just announced MPP, which is the
+00:38:09 model payments protocol. And ChatGPT has
+00:38:13 their own
+00:38:15 what is it? Agentic commerce. And and
+00:38:17 so, really what we're seeing here is
+00:38:20 just a standardized way for agents to be
+00:38:23 able to safely conduct transactions.
+00:38:27 And I think this is this is the step
+00:38:30 that's going to trip us up for the
+00:38:32 longest, okay? I think I think we may
+00:38:36 settle on the
+00:38:38 the right way to do at some of the
+00:38:40 others long before we settle on this.
+00:38:43 Because you you mentioned MPP and within
+00:38:46 that, there are even some and they're
+00:38:49 bigger battles than you might know
+00:38:51 because they're often a corner of the
+00:38:53 world you might never have heard of
+00:38:55 before called cryptocurrency and the
+00:38:57 blockchain. And how are we going to pay
+00:39:01 We're fighting over what is money? Mhm.
+00:39:04 Well, is everything else.
+00:39:05 They're fighting over is it Are you
+00:39:08 going to pay by fiat, which is a dollar?
+00:39:11 Are you going to pay by stablecoin,
+00:39:13 which is a cryptocurrency? And if you're
+00:39:15 going to pay by stablecoin, is it going
+00:39:17 to be USDC or USDT? And then they say,
+00:39:21 now wait a minute, what if I want to pay
+00:39:23 by Cardano because I want to use its
+00:39:26 privacy coin midnight. So, you know,
+00:39:30 there's that whole realm that has to be
+00:39:34 straightened out first before somebody
+00:39:37 needs to panic about, oh my gosh, I
+00:39:39 don't have a bank account set up to
+00:39:41 handle all of those payments or those
+00:39:43 processing or those
+00:39:45 protocols.
+00:39:47 Yeah, like right now, when I first read
+00:39:49 about AP2,
+00:39:50 Google talked about how it'll just work
+00:39:53 with standard payment protocols. Like
+00:39:54 you you'll be able to use your Visa,
+00:39:56 your MasterCard, your whatever, like
+00:39:57 your credit cards. It'll work with
+00:39:59 Stripe, with PayPal,
+00:40:02 you know, all of those those common
+00:40:03 things. But what really excites me is
+00:40:06 this idea that we'll be able to do
+00:40:09 microtransactions.
+00:40:10 And and I don't know a whole lot about
+00:40:12 the world of crypto, but I think that
+00:40:16 it's going to be very important. And
+00:40:18 that's where they come in is the micro
+00:40:20 payments because the fees for all of
+00:40:23 those standard transactions are just too
+00:40:26 high. And who's going to pay those fees?
+00:40:28 Is it going to be me, the business, the
+00:40:30 merchant? Time out here, folks. You
+00:40:32 know, I don't like my Visa fees as it
+00:40:34 is. You know, I'd much rather use
+00:40:38 a stablecoin where it's a fraction of
+00:40:40 that. But you know, that's that's why it
+00:40:43 gets much more complicated much faster.
+00:40:45 And I think that's why some of the other
+00:40:47 protocols they've sort of backed off on
+00:40:49 it.
+00:40:50 There's a clip from Demis Hassabis, CEO
+00:40:53 of Google DeepMind, which
+00:40:55 I'll I'll try to put it into the video
+00:40:57 in editing afterwards, but he talks
+00:40:59 about how
+00:41:01 agents talking to agents will likely
+00:41:04 change the way that our economy works.
+00:41:07 And that my agent might not just pay
+00:41:09 your agent, but negotiate payment with
+00:41:12 your agent.
+00:41:13 >> Yes, right. What do you What is your
+00:41:14 scenario plan for what happens to the
+00:41:15 web? Well, look, I think there's it's
+00:41:17 going to be there's going to be a very
+00:41:19 interesting phase in the next few years
+00:41:20 on the web and and the way we we
+00:41:22 interact with websites and apps and so
+00:41:24 on.
+00:41:25 You know, if everything becomes more
+00:41:26 agent-based, then I think we're going to
+00:41:28 want our assistants and our agents to do
+00:41:30 a lot of the work and a lot of the
+00:41:32 mundane work that we currently do,
+00:41:34 right? You know, fill in forms, make
+00:41:36 payments,
+00:41:38 you know, book tables, this kind of
+00:41:39 thing. So, you know, I think that we're
+00:41:41 going to end up with probably
+00:41:45 a kind of economics model where agents
+00:41:48 talk to other agents and negotiate
+00:41:50 things between themselves and then give
+00:41:52 you back the results, right? And you'll
+00:41:54 have service providers with agents as
+00:41:57 well that offering services and maybe
+00:41:59 there's some
+00:42:01 bidding and cost and things like that
+00:42:03 involved and efficiency. And then I hope
+00:42:06 from the user perspective, you know, you
+00:42:08 have this assistant that's super capable
+00:42:11 that you can just like a a brilliant
+00:42:13 human assistant, personal assistant and
+00:42:15 can take care of a lot of the mundane
+00:42:16 things for you. And I think if you
+00:42:18 follow that through, that does imply a
+00:42:21 lot of changes to
+00:42:23 the structure of of the web and the way
+00:42:25 we currently use It's a lot of
+00:42:26 middlemen. Yeah, sure. But there'll be
+00:42:28 many other I think there'll be
+00:42:29 incredible other opportunities that will
+00:42:31 appear economic and otherwise
+00:42:33 based on this this change, but I think
+00:42:36 it's going to be a big disruption. So
+00:42:38 let's say I make these SEO agents and I
+00:42:41 make them available via WebNCP. And Liz,
+00:42:44 you're like, "Wow, you know, that agent
+00:42:46 could actually make me a lot of money."
+00:42:48 Right now, I would offer like SAS
+00:42:51 pricing. I would be like, "Here's your
+00:42:52 price for the month and you get so many
+00:42:55 credits or you know, whatever." We we
+00:42:57 figure that out. But in the agentic
+00:43:00 world, I might say my agent might talk
+00:43:03 to your agent, might make an agreement
+00:43:05 to figure out how to determine if my
+00:43:07 agent actually helped you make more
+00:43:08 money and pay me a percentage of that.
+00:43:11 >> Okay. And then we end up in a in a
+00:43:13 win-win scenario, right? Because the
+00:43:15 more my agents work to help you, the
+00:43:17 more money I make, the more money you
+00:43:19 make. And then this is how the economy
+00:43:21 explodes because those who understand
+00:43:24 how agents work and how to get the most
+00:43:26 out of them will just have this
+00:43:29 ever-growing improvement in in our our
+00:43:32 bottom line. Well, now here's here's the
+00:43:34 number two reason that I think that this
+00:43:36 is going to be the whole stumbling block
+00:43:39 that slows it way down because what you
+00:43:42 just said there
+00:43:44 opens up a gigantic security hole. Mhm.
+00:43:48 Mhm. And what happens with we we know we
+00:43:52 know the scammers are out there and
+00:43:54 they're getting worse and they're
+00:43:55 getting more and more uh
+00:43:58 transparent on the one side and harder
+00:44:01 to find on the other.
+00:44:02 >> Yeah. Yeah. Uh so, if my what can my
+00:44:05 agent negotiate? How strong is my agent?
+00:44:08 How persuasive is your agent? We have to
+00:44:11 build in the security protocols all of
+00:44:14 that as well. And you know what? That
+00:44:17 kind of makes EAT or EEAT more
+00:44:20 important.
+00:44:20 >> Even more important. That's what I said.
+00:44:23 You need to know that the the person
+00:44:25 whose agent you're interacting with is
+00:44:28 trustworthy, is like somebody who
+00:44:30 can, you know, but even still, yeah,
+00:44:32 you're right. There's all sorts of
+00:44:33 security issues. I know Google
+00:44:36 just acquired or had a big partnership
+00:44:38 with Wiz and there's a couple of other
+00:44:42 I don't really pay a lot of attention to
+00:44:43 the security side of things, but it is
+00:44:45 definitely on their radar because this
+00:44:47 is where we're headed. And I think I
+00:44:49 really feel like this is similar you
+00:44:51 went through this as people started
+00:44:53 buying stuff on the web. Like I remember
+00:44:55 people saying there's no way I would put
+00:44:57 my credit card on the web like
+00:44:59 somebody's going to steal it, right? And
+00:45:01 that does happen, but today we all very
+00:45:03 freely put our credit card information
+00:45:06 on the web.
+00:45:06 >> Exactly. Exactly. So, bringing it back
+00:45:09 home, what can I do as a business owner
+00:45:11 today? You know, make sure my
+00:45:13 information is consistent across the
+00:45:15 web. Make sure my security is strong
+00:45:18 across the web. Make sure that my
+00:45:20 reputation as a business and that's why
+00:45:22 we're seeing
+00:45:24 back to 2010 again
+00:45:26 brand marketing and improving the SEO
+00:45:30 and the visibility of our and improving
+00:45:33 the strength and importance of our brand
+00:45:36 marketing as as part of our marketing
+00:45:38 stack is so important. You know, that
+00:45:42 uh you and I we live in this future
+00:45:44 world and we can see these things, but
+00:45:47 they're not here yet and
+00:45:49 I bet
+00:45:51 I bet there are betting apps out there
+00:45:54 where they're already taking bets on how
+00:45:57 long it's going to take to get from here
+00:45:58 to there. And I'm saying, people, we've
+00:46:01 got as a as a business, you've got 1 to
+00:46:04 2 years
+00:46:06 to do all this housekeeping work we've
+00:46:08 talked about that's all That's probably
+00:46:10 a good time to buy my stock.
+00:46:12 >> There's a lot to be done. You got to
+00:46:14 start now.
+00:46:16 Yeah, and I think I think like it starts
+00:46:18 with understanding these things and then
+00:46:21 you know, and then do we implement
+00:46:23 something for agent payments protocol
+00:46:25 right now? Probably not. No.
+00:46:28 But but you know, you want to know what
+00:46:30 you do know what you do do right now?
+00:46:33 And
+00:46:33 talking about agents protocol to buy
+00:46:35 something, one of the biggest stumbling
+00:46:38 blocks we've got a tool right now that
+00:46:40 will do a lot of this. We've got a tool
+00:46:44 we've had it for several years, but it's
+00:46:46 not used. It's only used like 28% of the
+00:46:49 time. It's called schema, structured
+00:46:52 data. Okay? How many websites do not
+00:46:55 have structured data on their site? Not
+00:46:58 just maybe they have one page or maybe
+00:47:00 they have breadcrumbs. But if you're an
+00:47:03 e-commerce store, how many people do not
+00:47:06 have it? And why do they not have it?
+00:47:08 I've worked in a few different cases at
+00:47:11 a few different places where we wanted
+00:47:13 to implement schema, but we couldn't
+00:47:15 because we could not put our price
+00:47:18 on our web page.
+00:47:20 And one of the important things is if
+00:47:22 it's going to be in your schema and your
+00:47:24 structured data, it has to also be on
+00:47:26 the visible web page. So this is a great
+00:47:30 explanation of what an example of what
+00:47:32 we've got to do now. Um I didn't want to
+00:47:36 say that my product was $49 a month
+00:47:39 because it's actually a customized
+00:47:41 according to each customer. So it could
+00:47:44 be $49 for you, it could be $59 for him.
+00:47:47 So I don't put it on my web page, which
+00:47:50 means I can't put it in my schema. And
+00:47:53 since that's a required field in my
+00:47:56 schema, I can't use product.
+00:47:58 >> You're making me think now about how
+00:48:00 personalization will come into play. It
+00:48:03 absolutely will. It does.
+00:48:05 >> Like my private membership, I might I I
+00:48:08 struggle with that. I like to offer like
+00:48:10 if somebody's watching this and you're
+00:48:11 like, "I can't afford to be a part of
+00:48:13 the search bar." I do occasionally
+00:48:16 you know, give people who are out of
+00:48:17 work a discount and stuff. But what if
+00:48:19 you could do that all agentically? You
+00:48:20 know that
+00:48:21 my agent would talk to your agent and
+00:48:23 go, "Well, here's you know, here's a
+00:48:25 fair price for both of us." Well, schema
+00:48:27 is our tool right now.
+00:48:29 Structured data is our tool right now to
+00:48:31 make it clear for the agents. This is
+00:48:34 what disambiguate, make everything as
+00:48:36 clear and complete as possible. But
+00:48:39 there's been some recent discussions
+00:48:41 even in LinkedIn. Rand Fishkin put the
+00:48:43 question out there and some other people
+00:48:45 recently answered with is schema going
+00:48:48 to be
+00:48:50 the the basis for everything in the
+00:48:52 future? And somebody else said, "Well,
+00:48:54 you know what? No, because this was just
+00:48:57 in the HTML on the page and the agent
+00:49:00 was able to find it." So I suspect we
+00:49:05 will have another A2 acronym popping up
+00:49:08 here soon. And there may be some shifts
+00:49:11 in the in the language and the things
+00:49:13 that we can do. And these agents will
+00:49:16 get to the point where and they will get
+00:49:18 to the place where they are able to take
+00:49:22 a look at your product description
+00:49:24 and
+00:49:25 the the phrase that you put in that
+00:49:28 makes your
+00:49:30 water bottle so much more unique to
+00:49:32 somebody else's, you know, that will be
+00:49:35 understood and or you will be able to
+00:49:38 make that understandable to an agent.
+00:49:40 >> Yeah. Yeah. Yeah. I'm laughing because
+00:49:43 and I don't want to go too far down this
+00:49:45 road. I don't I don't know how much you
+00:49:46 know about my
+00:49:48 my battle with schema, with trying to
+00:49:50 understand schema
+00:49:51 throughout the years, and I go back and
+00:49:53 forth. I'm like like I see the purpose.
+00:49:56 If you have a an e-commerce website,
+00:49:58 it's mandatory, you know. But, I think a
+00:50:01 lot of what people attribute to schema
+00:50:03 is just text on the page.
+00:50:06 And I I I Here's my belief. I believe
+00:50:09 that schema was given to us so that we
+00:50:12 could learn how to understand the
+00:50:13 information on the web, and one day we
+00:50:15 won't need it. But, I think we're not at
+00:50:17 that one day now. So, anyways, that's
+00:50:20 another thing that I could talk for
+00:50:22 hours on this topic.
+00:50:23 >> right now it's actually becoming the
+00:50:26 most important thing you could have
+00:50:28 right now. Because it the job of schema
+00:50:31 is to what they call disambiguate.
+00:50:34 Mhm. Mhm.
+00:50:35 I'm John Smith, and I want to sell you
+00:50:37 this water bottle, you know, but which
+00:50:40 John Smith are you? E-E-A-T, who are
+00:50:42 you? What are you? What's your
+00:50:43 expertise?
+00:50:45 Just knowing, you know, are you John
+00:50:47 Smith the e-commerce store owner? But,
+00:50:50 there's also a John Smith who's a falcon
+00:50:53 trainer, and there's a John Smith who
+00:50:56 is, you know,
+00:50:58 according to his socials, quite a fun
+00:51:00 guy. You know, which one is that? It
+00:51:03 could all the same person. I had a
+00:51:05 fascinating conversation with Gemini
+00:51:06 about schema. Yeah. And I asked Gemini
+00:51:10 to argue against itself on the the case
+00:51:14 for schema. And and then at the end, it
+00:51:18 said something that like really actually
+00:51:19 made me think that cuz I was like,
+00:51:21 Gemini if
+00:51:22 if I ask ChatGPT about me, Marie Haynes,
+00:51:26 like it doesn't need to grab the schema
+00:51:28 from my website. It grabs from its
+00:51:30 knowledge. It grabs from rag. It grabs
+00:51:32 like whatever. And then Gemini was like,
+00:51:34 well, but the schema so the schema says
+00:51:38 this is exactly what you need to know as
+00:51:40 opposed to the language model having to
+00:51:43 read everything and decipher what it
+00:51:44 needs to know. So, I do think there's
+00:51:47 like definitely reason for for schema. I
+00:51:50 think a lot of the schema that we use
+00:51:51 like I don't think that it gives you a
+00:51:53 ranking benefit
+00:51:55 in a lot of cases, but I think that it's
+00:51:57 a really important layer for machines to
+00:52:00 to understand. Yeah. There's the
+00:52:02 distinction. Final questions to finish
+00:52:05 up.
+00:52:06 The agent to user interface protocol, I
+00:52:08 think we haven't really seen this yet.
+00:52:11 My understanding is that it's
+00:52:13 essentially
+00:52:14 Google can whip up a UI.
+00:52:17 And we saw a paper where Google talked
+00:52:21 about potentially doing this. If and I
+00:52:24 think in the paper it was like if you
+00:52:25 had really really bad user experience on
+00:52:28 your site, then Google might or
+00:52:30 confusing user experience, Google might
+00:52:32 create a whole new web page for you.
+00:52:35 I I don't know. I I I think that
+00:52:38 we are going to come to a place where
+00:52:41 agents can just produce whole web pages
+00:52:44 on the fly. Interesting, right? Well,
+00:52:47 interesting and something to be avoided
+00:52:49 at all costs. You know, as a business
+00:52:52 owner, that's me absolutely losing my
+00:52:55 identity, if you will. But, I see this
+00:52:59 maybe going in a different direction as
+00:53:01 well.
+00:53:03 I can see this as sort of the evolution
+00:53:06 of your website chatbot. Okay. Yeah. Say
+00:53:09 more. Use this. This is how the agent
+00:53:12 talks to its human. So, instead of being
+00:53:15 able to just give you here are three
+00:53:17 options, you know, when you from your
+00:53:20 array that in your little chat box down
+00:53:23 at the bottom, it can actually show you,
+00:53:26 you know, a chart of why this one is
+00:53:28 better than that or something.
+00:53:30 It actually do things like that. I think
+00:53:33 that's where it will it will wind up.
+00:53:37 You know, people are
+00:53:38 >> we were talking about this in the search
+00:53:40 bar, but Google has a labs experiment
+00:53:42 called Google Disco, and it'll allow you
+00:53:45 to create an app out of tabs that you
+00:53:48 have open. And I'll I'll show a clip of
+00:53:52 it when we
+00:53:53 when we make this video live. And I
+00:53:56 think that might be part of the agent to
+00:53:58 UI. So, that my agent wouldn't just be
+00:54:01 talking to your website, but maybe I
+00:54:04 have like your website is part of a
+00:54:06 collection of websites that that I'm
+00:54:08 interested in. Maybe I'm doing research
+00:54:10 on, you know, something and and you're
+00:54:12 just one of those, and then my agent
+00:54:14 spins up a tool
+00:54:16 with an interface that I can converse
+00:54:18 with all of those websites. But, that's
+00:54:20 theoretical at this point. Like we don't
+00:54:22 really know. So, that's why I don't want
+00:54:24 to spend too much time on agent to to
+00:54:26 user interface. Yeah.
+00:54:28 And then
+00:54:29 the the last one is similar, which I
+00:54:33 don't know very much about, but agent
+00:54:34 user interaction protocol. And so
+00:54:38 my understanding here is that it
+00:54:41 I think I highlighted something. Oh,
+00:54:43 maybe not. Uh
+00:54:45 Uh it sort of the way that we get
+00:54:48 information and communicate with tools
+00:54:51 and websites is so one-sided. Like we
+00:54:54 get information all in one chunk, but
+00:54:57 when we talk with AI, we might want to
+00:54:58 interrupt that conversation.
+00:55:01 And and and it'll be back and forth in a
+00:55:04 different way.
+00:55:05 Uh let's see here. It acts as middleware
+00:55:08 that translates raw framework events
+00:55:10 into a standardized SSE stream. I don't
+00:55:13 know. Do you have Do you have thoughts
+00:55:14 on that or do you think we should leave
+00:55:15 that one for another day? Thoughts on
+00:55:17 that from a code standpoint, no. I don't
+00:55:20 know what an SSE stream is or anything
+00:55:23 else, but I think I think this is what I
+00:55:26 just saw demoed by
+00:55:29 There's a gentleman who
+00:55:31 a YouTube creator named Matt Wolf, and
+00:55:33 he does a weekly update on what's the
+00:55:36 news in AI. I've been following him for
+00:55:38 a couple of years. Shout-out to Matt. He
+00:55:41 just did this in one of his podcasts,
+00:55:44 where
+00:55:45 you can actually, as you're conversing
+00:55:47 with your agent, ask them to show me an
+00:55:52 interactive map of what happens when the
+00:55:55 temperatures rise or something like
+00:55:57 that. It's a It's another way of getting
+00:56:00 very detailed and complex information
+00:56:03 out there, and it's available now. It's
+00:56:06 It's been built in again, I think it's a
+00:56:08 labs environment. Correct me because I'm
+00:56:11 sure I'm probably wrong, folks. But, you
+00:56:14 know, it's it's a way of
+00:56:16 bringing information like that to life.
+00:56:18 And we have someone in the search bar
+00:56:20 who who does the Maslow's hierarchy of
+00:56:23 needs
+00:56:25 as his test a lot.
+00:56:27 It would work It would show you
+00:56:29 that in
+00:56:31 interactive way.
+00:56:33 Agent to user interface. I don't know. I
+00:56:36 think I I think we have I have to learn
+00:56:38 more there before we can before we can I
+00:56:40 don't know. See, I may be totally off on
+00:56:41 my, you know, what that
+00:56:43 an acronym stands for, but I know that's
+00:56:46 coming. It's coming. Lots of changes
+00:56:48 coming. So, I want to summarize what we
+00:56:51 learned, and then I have three
+00:56:52 rapid-fire questions for you, Liz.
+00:56:55 So, MCP, this is the end of Google's
+00:56:57 blog post, connects agents to tools.
+00:57:00 Agent to agent connects agents to other
+00:57:03 agents. UCP standardizes commerce. AP2
+00:57:06 handles payment authorization.
+00:57:08 A2UUI
+00:57:10 defines what to render. That makes
+00:57:12 sense. And then AGUI defines how to
+00:57:15 stream it. So, these are the protocols
+00:57:19 that we need to be aware of. I think
+00:57:21 some of them we can start playing with.
+00:57:24 I think if you're e-commerce, you pretty
+00:57:26 much have to be looking at UCP because
+00:57:29 it's the way that things are are are
+00:57:30 headed.
+00:57:32 And then the rest of them I I personally
+00:57:34 think that it's enough right now to just
+00:57:36 know that they exist. And I I think
+00:57:38 these protocols will be changing so much
+00:57:40 that if you tried to implement something
+00:57:42 right now,
+00:57:43 like it would be outdated by the time
+00:57:45 it's it's standard use. Yes. I'd agree
+00:57:48 I'd agree 100%, but the one thing you
+00:57:51 have to do right now is make a decision
+00:57:53 on how you want to interact with these.
+00:57:57 Mhm. Where do you want to land? Do you
+00:57:59 want to deny them? Do you want to allow
+00:58:01 them? Do you want to land somewhere in
+00:58:03 the middle? Yeah. And start you start
+00:58:07 doing your housekeeping, your cleanup to
+00:58:09 take you to that point. That's what we
+00:58:12 need to do now.
+00:58:14 Okay, so Liz, I have three rapid-fire
+00:58:16 questions for you that I would love to
+00:58:18 have your opinion on. Number one, if you
+00:58:21 speak to the people who are watching
+00:58:23 this and completely overwhelmed and
+00:58:25 don't know where to go with AI, where to
+00:58:28 learn about AI, what would you recommend
+00:58:31 for them to do? Well, you didn't tee it
+00:58:34 up, but I'm going to say it anyway. I I
+00:58:36 would suggest that people check out the
+00:58:38 search bar. Start with the newsletter.
+00:58:40 Start with, you know, whatever little
+00:58:42 pieces of getting your news that you
+00:58:44 can, but consider joining us because we
+00:58:46 are none of us are are experts, and it's
+00:58:49 not like Marie is teaching a class or
+00:58:52 anything. We're all learning from each
+00:58:53 other and expanding our knowledge
+00:58:55 together.
+00:58:56 Thank you. I didn't ask Liz to say that.
+00:58:59 I
+00:58:59 >> [laughter]
+00:59:00 >> I was going to end with that. So, you
+00:59:02 could also say find a community. Yeah.
+00:59:05 Yeah. And if you're wondering what the
+00:59:07 search bar is, you can go to
+00:59:09 community.mariehaynes.com.
+00:59:11 There's a free area where myself and and
+00:59:14 others put in all of the stuff that's
+00:59:16 happening in terms of search and AI that
+00:59:18 is important to know. And then the paid
+00:59:20 area is just such a great group of
+00:59:22 people that are learning how to navigate
+00:59:26 the navigate such an AI world word,
+00:59:28 right? I swear ChatGPT didn't write
+00:59:31 this, but learning how to navigate this
+00:59:33 this new future that we're we're walking
+00:59:35 towards. So, thank you Liz and I'm Liz,
+00:59:37 you're relatively new to the to
+00:59:39 communicate or to being a part of the
+00:59:40 community and I I really appreciate your
+00:59:43 your
+00:59:44 contributions.
+00:59:45 There's just such a bunch of great
+00:59:47 people in there. Thank you. Okay, number
+00:59:49 two, what is one non-work thing that
+00:59:52 you've done with AI? Well, it's
+00:59:55 necessary thing that everybody has to
+00:59:57 do. I just recently went through and
+01:00:00 redid my entire financial planning and
+01:00:02 all of the things associated with that.
+01:00:06 Given that, you know, one of these days
+01:00:08 I may just run into a Terminator type
+01:00:12 co-worker. So, I got everything in
+01:00:15 order, so my family won't ever have to
+01:00:18 worry about it if the doomsayers are
+01:00:21 right and we're all going to be wiped
+01:00:22 out by AI in 2 years. Did you What did
+01:00:25 you use for that? Did you use Claude,
+01:00:27 ChatGPT? I did. I used Claude mostly.
+01:00:33 Actually, it's too simple today just to
+01:00:35 sort of go back and forth.
+01:00:38 Yeah, very interesting what you can do.
+01:00:40 And then my third question is whether
+01:00:42 you have any books that you recommend. I
+01:00:44 I love reading books. I think I think
+01:00:46 our brains are getting ruined by
+01:00:48 short-term stuff that we can get on
+01:00:50 social media, right? And there's
+01:00:51 something about sitting down with a good
+01:00:53 resource, but what do you think? Well,
+01:00:56 I'm very glad you said it that way and
+01:00:58 I'm going to climb up on my soapbox here
+01:00:59 for just a little minute. In terms of
+01:01:01 our topic and what we've talked about
+01:01:03 here today, things are moving just way
+01:01:05 too fast for any book or anything to
+01:01:08 actually be able to capture it, but I
+01:01:10 think one of the most important things
+01:01:12 you can do is read a book to a child.
+01:01:16 Read a book to a child. Read a book with
+01:01:19 a child. Let a child see you reading
+01:01:21 books because when you get right down to
+01:01:24 it, reading, writing, and and
+01:01:26 arithmetic, these are the three skills
+01:01:29 that kids have got to learn in an analog
+01:01:32 way. They do so much more for turning on
+01:01:36 your brain. Learn how to add that math
+01:01:38 problem up yourself before you use a
+01:01:41 calculator. Don't ask ChatGPT to write
+01:01:44 your essay. Do it yourself. And read a
+01:01:49 story. So, if you start young, you got
+01:01:51 kids, you got grandkids, read to a
+01:01:53 child. Love it. I love it. So, we're
+01:01:55 only just scratching the surface on what
+01:01:57 we need to know in terms of these
+01:01:59 protocols as AI is changing the way that
+01:02:02 the web works. I really encourage you to
+01:02:04 join the community,
+01:02:05 community.mariehaynes.com.
+01:02:07 And Liz, thank you so much for joining
+01:02:10 us as my first guest in this series. Our
+01:02:12 next guest, as we said, is going to be
+01:02:14 Andrea Lee. We're going to talk about
+01:02:16 Universal Commerce Protocol in great
+01:02:18 detail. Liz, if people want to contact
+01:02:20 you, are you taking clients? Are you
+01:02:22 What kind of work are you doing? Sure, I
+01:02:24 will I'm always open to talk to people
+01:02:27 and I'm really glad that we were able to
+01:02:29 do this in such a short time today.
+01:02:31 Normally, it's a lot longer.
+01:02:33 >> [music]
+01:02:33 >> But if you want to get in touch with me,
+01:02:35 there are two ways. You can just go to
+01:02:37 really simple, go to my website,
+01:02:39 lizmysik.com,
+01:02:40 or reach out to me in email at
+01:02:42 lizmysik@gmail.
+01:02:44 Super simple. Amazing. I'll put those
+01:02:46 links in the description. [music]
+01:02:48 And thank you everybody for watching and
+01:02:50 I wish you the best of luck with
+01:02:51 everything.

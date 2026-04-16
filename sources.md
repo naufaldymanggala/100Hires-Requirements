@@ -48,7 +48,7 @@
 
 - **LinkedIn:** https://www.linkedin.com/in/kevinindig/
 - **Website:** https://kevin-indig.com
-- **Date added:** 2025-04-15
+- **Date added:** 2025-04-16
 - **Annotation:** Growth advisor to Shopify, Atlassian, G2, Dropbox, and Reddit. Author of the Growth Memo newsletter. Has published 30+ analyses on how AI search traffic differs from traditional search, including his influential work on the "decoupling of clicks from impact." Best source for connecting AI SEO content strategy to measurable business growth outcomes.
 
 ---
@@ -58,7 +58,7 @@
 - **LinkedIn:** https://linkedin.com/in/aleyda
 - **YouTube:** https://youtube.com/c/CrawlingMondaysbyAleyda
 - **Website:** https://orainti.com
-- **Date added:** 2025-04-15
+- **Date added:** 2025-04-16
 - **Annotation:** Founder of Orainti SEO consultancy. Hosts the *Crawling Mondays* YouTube series covering technical SEO and AI crawler behaviour. Recognized expert on international and multilingual GEO — particularly how AI models behave differently across languages and markets. Speaker at MozCon 2025. Useful for understanding how AI content production scales across regions.
 
 ---
@@ -68,7 +68,7 @@
 - **LinkedIn:** https://www.linkedin.com/in/rosssimmonds/
 - **YouTube:** https://www.youtube.com/@RossSimmondsTV
 - **Website:** https://foundationinc.co
-- **Date added:** 2025-04-15
+- **Date added:** 2025-04-16
 - **Annotation:** Founder of Foundation Marketing. Created the "Create Once, Distribute Forever" content philosophy, which has become a key framework for maximising AI content visibility across multiple channels. Strong LinkedIn presence with high-engagement posts on B2B content strategy and AI-driven distribution. Best source for content repurposing and distribution workflows.
 
 ---
@@ -78,7 +78,7 @@
 - **LinkedIn:** https://www.linkedin.com/in/jasonmbarnard/
 - **YouTube:** https://www.youtube.com/@jasonmbarnard
 - **Website:** https://kalicube.com
-- **Date added:** 2025-04-15
+- **Date added:** 2025-04-16
 - **Annotation:** Founder of Kalicube. Coined the term "Answer Engine Optimization" and built comprehensive systems for making brands legible to AI systems through entity optimisation and knowledge graph management. Hosts *The Jason Barnard Show* podcast. Essential source for understanding how AI content production intersects with brand entity strategy and structured data.
 
 ---
@@ -88,7 +88,7 @@
 - **LinkedIn:** https://www.linkedin.com/in/thinkingslow/
 - **YouTube:** https://www.youtube.com/@ahrefspodcast
 - **Website:** https://ahrefs.com/blog
-- **Date added:** 2025-04-15
+- **Date added:** 2025-04-16
 - **Annotation:** Director of Content at Ahrefs. One of the most rigorous voices against low-quality AI-generated content, advocating for expertise-driven content that AI search systems actually cite. His posts consistently outperform larger accounts in engagement despite a smaller following. Best source for understanding what separates AI-assisted content that ranks from AI content that doesn't.
 
 ---
@@ -98,7 +98,7 @@
 - **LinkedIn:** https://linkedin.com/in/marie-haynes
 - **YouTube:** https://www.youtube.com/@Marie_Haynes
 - **Website:** https://mariehaynes.com
-- **Date added:** 2025-04-15
+- **Date added:** 2025-04-16
 - **Annotation:** Founder of Marie Haynes Consulting. Specialist in Google algorithm recovery and long-running research on how Google evaluates content quality. Recently active on AI agents applied to SEO workflows and AI Overviews / AI Mode. 96K+ Twitter/X followers. Key source for understanding the quality thresholds AI-produced content must meet to survive algorithm updates.
 
 ---

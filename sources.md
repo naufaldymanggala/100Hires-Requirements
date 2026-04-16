@@ -46,8 +46,7 @@
 
 ## 5. Kevin Indig
 
-- **LinkedIn:** 
-- **YouTube:** 
+- **LinkedIn:** https://www.linkedin.com/in/kevinindig/
 - **Website:** https://kevin-indig.com
 - **Date added:** 2025-04-15
 - **Annotation:** Growth advisor to Shopify, Atlassian, G2, Dropbox, and Reddit. Author of the Growth Memo newsletter. Has published 30+ analyses on how AI search traffic differs from traditional search, including his influential work on the "decoupling of clicks from impact." Best source for connecting AI SEO content strategy to measurable business growth outcomes.
@@ -87,7 +86,7 @@
 ## 9. Ryan Law
 
 - **LinkedIn:** 
-- **YouTube:** https://youtube.com/@ahrefs
+- **YouTube:** https://www.youtube.com/@AhrefsCom
 - **Website:** https://ahrefs.com/blog
 - **Date added:** 2025-04-15
 - **Annotation:** Director of Content at Ahrefs. One of the most rigorous voices against low-quality AI-generated content, advocating for expertise-driven content that AI search systems actually cite. His posts consistently outperform larger accounts in engagement despite a smaller following. Best source for understanding what separates AI-assisted content that ranks from AI content that doesn't.

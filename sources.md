@@ -37,7 +37,7 @@
 ## 4. Lily Ray
 
 - **LinkedIn:** https://linkedin.com/in/lily-ray-44755615
-- **YouTube:** https://youtube.com/@lilyraynyc
+- **YouTube:** https://www.youtube.com/@lilyray
 - **Website:** https://amsive.com
 - **Date added:** 2025-04-15
 - **Annotation:** VP of SEO Strategy & Research at Amsive Digital. Named #1 most influential SEO expert by USA Today (2022). Publishes deep research on E-E-A-T, Google Core Updates, and AI Overviews. LinkedIn posts regularly receive 900+ reactions. Key source for understanding how AI systems evaluate content credibility and authority signals.

@@ -58,7 +58,7 @@
 - **Title:** AI protocols that marketers need to know about - with Liz Micik & Marie Haynes
 - **Author:** Marie Haynes
 - **Channel:** https://www.youtube.com/@Marie_Haynes
-- **Last checked:** 2025-04-15
+- **Last checked:** 2025-04-16
 - **Annotation:** [ANNOTATION]
 - **Transcript:** 
 
@@ -70,7 +70,7 @@
 - **Title:** Answer Engine Optimization: How Jason Barnard Gained EEAT Credibility as an Award Winning Innovator
 - **Author:** Jason Barnard
 - **Channel:** https://www.youtube.com/@jasonmbarnard
-- **Last checked:** 2025-04-15
+- **Last checked:** 2025-04-16
 - **Annotation:** [ANNOTATION]
 - **Transcript:** 
 
@@ -83,6 +83,6 @@
 - **Title:** Create Once, Distribute Forever: How Great Creators Spread Ideas and How You Can too
 - **Author:** Ross Simonds
 - **Channel:** https://www.youtube.com/@RossSimmondsTV
-- **Last checked:** 2025-04-15
+- **Last checked:** 2025-04-16
 - **Annotation:** [ANNOTATION]
 - **Transcript:** 

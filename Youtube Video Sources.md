@@ -54,7 +54,7 @@
 - **Author:** Marie Haynes
 - **Channel:** https://www.youtube.com/@Marie_Haynes
 - **Last checked:** 2025-04-16
-- **Annotation:** [ANNOTATION]
+- **Annotation:** In this discussion, Marie Haynes and AI Transition Consultant Liz MySic explore the imminent shift from Generative Engine Optimization (GEO) where marketers obsess over ranking in ChatGPT to the "Agentic Web." In this new era, AI agents will not just fetch information; they will autonomously negotiate, interact, and execute transactions on behalf of users and businesses. The conversation breaks down a recent Google developer blog post outlining the backend protocols driving this change.
 
 ---
 
@@ -65,7 +65,7 @@
 - **Author:** Jason Barnard
 - **Channel:** https://www.youtube.com/@jasonmbarnard
 - **Last checked:** 2025-04-16
-- **Annotation:** [ANNOTATION]
+- **Annotation:** Jason Barnard demonstrates the power of Answer Engine Optimization (AEO) and how establishing digital trust allows individuals to control the narrative surrounding their personal brand across major AI and search platforms.
 
 
 ---
@@ -77,4 +77,4 @@
 - **Author:** Ross Simonds
 - **Channel:** https://www.youtube.com/@RossSimmondsTV
 - **Last checked:** 2025-04-16
-- **Annotation:** [ANNOTATION]
+- **Annotation:** Ross Simmonds challenges the widespread industry belief that creating a high volume of content is the key to success. He introduces the mantra "Create Once, Distribute Forever," arguing that marketers should spend less time endlessly creating new content and far more time distributing and repurposing the high-quality assets they already have.

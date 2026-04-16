@@ -16,7 +16,7 @@ What Tools I Installed: I installed Cursor IDE and two extensions — Claude Cod
 3. I had trouble connecting my GitHub repository to Cursor. I searched for help on YouTube and found a useful guide: https://www.youtube.com/watch?v=q0nGtPuciK4. Following it, I was able to clone my GitHub repositories to Cursor successfully.
 ---
 **What I collected:**
-* I chose the topic "AI-powered SEO content production" and found 10 content creators. I watched their recent videos and got their transcript.
+* I chose the topic "AI-powered SEO content production" and found 10 content creators through Claude and Gemini. I watched their recent videos and got their transcript with Supadata AI.
 ---
 **Why I chose them:**
 * Nathan Gotch — he built and sold SEO products (Rankability, Gotch SEO Academy), runs active client campaigns, and literally wrote the book on AI SEO. His YouTube content comes directly from what he's testing on real accounts, not theory.

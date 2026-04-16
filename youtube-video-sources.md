@@ -77,12 +77,12 @@
 
 ---
 
-## Video 7 — w1-bmDmbjIo
+## Video 7 — Create Once, Distribute Forever: How Great Creators Spread Ideas and How You Can too
 
 - **YouTube:** https://www.youtube.com/watch?v=w1-bmDmbjIo
-- **Title:** [TITLE]
-- **Author:** [AUTHOR NAME]
-- **Channel:** [CHANNEL URL]
+- **Title:** Create Once, Distribute Forever: How Great Creators Spread Ideas and How You Can too
+- **Author:** Ross Simonds
+- **Channel:** https://www.youtube.com/@RossSimmondsTV
 - **Last checked:** 2025-04-15
 - **Annotation:** [ANNOTATION]
 - **Transcript:** 

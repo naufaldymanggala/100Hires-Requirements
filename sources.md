@@ -46,8 +46,8 @@
 
 ## 5. Kevin Indig
 
-- **LinkedIn:** https://linkedin.com/in/kevin-indig
-- **YouTube:** https://youtube.com/@KevinIndig
+- **LinkedIn:** 
+- **YouTube:** 
 - **Website:** https://kevin-indig.com
 - **Date added:** 2025-04-15
 - **Annotation:** Growth advisor to Shopify, Atlassian, G2, Dropbox, and Reddit. Author of the Growth Memo newsletter. Has published 30+ analyses on how AI search traffic differs from traditional search, including his influential work on the "decoupling of clicks from impact." Best source for connecting AI SEO content strategy to measurable business growth outcomes.
@@ -66,8 +66,8 @@
 
 ## 7. Ross Simmonds
 
-- **LinkedIn:** https://linkedin.com/in/rosssimmonds
-- **YouTube:** https://youtube.com/@RossSimmonds
+- **LinkedIn:** https://www.linkedin.com/in/rosssimmonds/
+- **YouTube:** https://www.youtube.com/@RossSimmondsTV
 - **Website:** https://foundationinc.co
 - **Date added:** 2025-04-15
 - **Annotation:** Founder of Foundation Marketing. Created the "Create Once, Distribute Forever" content philosophy, which has become a key framework for maximising AI content visibility across multiple channels. Strong LinkedIn presence with high-engagement posts on B2B content strategy and AI-driven distribution. Best source for content repurposing and distribution workflows.
@@ -86,7 +86,7 @@
 
 ## 9. Ryan Law
 
-- **LinkedIn:** https://linkedin.com/in/ryan-law-content
+- **LinkedIn:** 
 - **YouTube:** https://youtube.com/@ahrefs
 - **Website:** https://ahrefs.com/blog
 - **Date added:** 2025-04-15

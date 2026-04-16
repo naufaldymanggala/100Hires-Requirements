@@ -103,4 +103,3 @@
 
 ---
 
-*Sources identified via: LinkedIn author analysis, YouTube channel research, and cross-referenced expert rankings from Digital Marketing Supermarket, First Page Sage, and Position Digital (Feb–Apr 2026).*

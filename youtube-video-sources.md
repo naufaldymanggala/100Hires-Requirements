@@ -52,12 +52,12 @@
 
 ---
 
-## Video 5 — i_sAhytJFg8
+## Video 5 — AI protocols that marketers need to know about - with Liz Micik & Marie Haynes
 
 - **YouTube:** https://www.youtube.com/watch?v=i_sAhytJFg8
-- **Title:** [TITLE]
-- **Author:** [AUTHOR NAME]
-- **Channel:** [CHANNEL URL]
+- **Title:** AI protocols that marketers need to know about - with Liz Micik & Marie Haynes
+- **Author:** Marie Haynes
+- **Channel:** https://www.youtube.com/@Marie_Haynes
 - **Last checked:** 2025-04-15
 - **Annotation:** [ANNOTATION]
 - **Transcript:** 

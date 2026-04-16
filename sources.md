@@ -27,7 +27,7 @@
 ## 3. Koray Tuğberk Gübür
 
 - **LinkedIn:** https://linkedin.com/in/koray-tugberk-gubur
-- **YouTube:** https://youtube.com/@HolisticSEO
+- **YouTube:** https://www.youtube.com/@TopicalAuthority
 - **Website:** https://holisticseo.digital
 - **Date added:** 2025-04-15
 - **Annotation:** Founder of Holistic SEO & Digital. Creator of the Topical Authority and Semantic SEO methodology (coined May 2022). Reads Google patents and applies information retrieval science to SEO. His frameworks directly inform how AI systems understand and rank structured content networks — essential for understanding AI-native content architecture.

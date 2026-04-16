@@ -1,6 +1,5 @@
 # YouTube Video Sources
 
-*Formatted for `/research/sources.md` — fill in [TITLE], [AUTHOR NAME], [CHANNEL URL], and [ANNOTATION] for each entry*
 
 ---
 

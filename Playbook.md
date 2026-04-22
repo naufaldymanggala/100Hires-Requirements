@@ -27,9 +27,9 @@ This prediction aged badly. Diggity made this claim in early 2024, but the oppos
 ---
 ## 3. Original Ideas Not Found in These Sources
 - **"Content Expiration Dates" System:**
-We should set a formal expiration review date on every piece of AI-produced content at creation time. Most playbooks say "refresh content," but nobody builds it into the production workflow as a default step. When a piece hits its expiration date, it automatically enters a review queue. This prevents the slow rot of outdated AI content that quietly kills topical authority.
+We should set a formal expiration review date on every piece of AI-produced content at creation time. When a piece hits its expiration date, it automatically enters a review queue. This prevents the slow rot of outdated AI content that quietly kills topical authority.
 - **AI Content "Source Injection" Protocol:**
-Before AI writes anything, we should feed it with primary sources like our own data, a customer interview transcript, an internal report. The AI uses your facts, not the internet's recycled facts. This solves the "copycat content" problem Ryan Law identifies.
+Before AI writes anything, we should feed it with primary sources like our own data, a customer interview transcript, an internal report. The AI uses our facts, not the internet's recycled facts. This solves the "copycat content" problem Ryan Law identifies.
 - **Persona-Locked Prompting:**
 Instead of generic prompts, we should create a locked "author persona" prompt, including our brand's real opinions, known positions, and tone used for every content piece. This creates consistency across AI-produced content that makes our brand feel recognizable, not robotic.
 ---

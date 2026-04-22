@@ -1,6 +1,5 @@
 1. Where experts disagree
-
---
+---
 * Nathan Gotch — AI writes the draft, you add what only you can
 Nathan Gotch uses AI tools to create a first draft fast, then build on top with things AI can't make: original data studies, your real opinion, unique visuals. The core message is that anyone can now make mediocre content with AI. To actually outrank, you need something unique and valuable that a machine simply cannot generate on its own (Source: Nathan Gotch, https://www.gotchseo.com/how-to-create-seo-content/ — published June 3, 2025)
 
@@ -18,7 +17,7 @@ Ryan Law argues that AI-generated content is no longer inherently low quality, a
 
 * Marie Haynes — Use AI to find gaps and angles, not to write the actual content
 Marie Haynes recommends using AI thoughtfully in the research and ideation phase, not as a writing machine. Her specific advice is to use AI tools to identify content gaps and brainstorm unique angles, but avoid generating shallow, generic content that users and Google will dismiss. Source: Marie Haynes, https://www.optimixed.com/the-december-2025-core-update-observations-on-4-sites-that-did-well-marie-haynes/ — The December 2025 Core Update: Observations — February 2026
---
+---
 2. Ideas from Sources I'd Leave Out of the Playbook
 *  Idea 1: "Build a website with 100% AI content" 
 This was an experiment Diggity ran in early 2023, before Google's scaled content abuse enforcement hit hard. Since then, Google's March 2024 core update and its June and August 2025 spam updates specifically targeted sites running this exact playbook. Sites built on 100% AI content with no human oversight have been deindexed or heavily penalized. What worked as an experiment in 2023 is now a direct violation of Google's spam policies. (Source: Matt Diggity, https://www.linkedin.com/posts/mattdiggityseo_i-built-a-website-with-100-ai-content-activity-7029093777013182464-Ir-G — I Built a Website with 100% AI Content, 08.02.2023)

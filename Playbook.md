@@ -15,7 +15,7 @@ Kevin Indig recommends taking full quarterly content strategy generating all 30 
 Ryan Law argues that AI-generated content is no longer inherently low quality, and that the traditional trade-off between speed and quality is diminishing when proper workflows and skill files are used. (Source: Ryan Law, https://ahrefs.com/blog/my-complete-ai-content-process-for-ahrefs/ — August 2025)
 
 - **Marie Haynes** —
-Marie Haynes recommends using AI thoughtfully in the research and ideation phase, not as a writing machine. Her specific advice is to use AI tools to identify content gaps and brainstorm unique angles, but avoid generating shallow, generic content that users and Google will dismiss. Source: Marie Haynes, https://www.optimixed.com/the-december-2025-core-update-observations-on-4-sites-that-did-well-marie-haynes/ — The December 2025 Core Update: Observations — February 2026
+Marie Haynes recommends using AI thoughtfully in the research and ideation phase, not as a writing machine. Her specific advice is to use AI tools to identify content gaps and brainstorm unique angles, but avoid generating shallow, generic content that users and Google will dismiss. (Source: Marie Haynes, https://www.optimixed.com/the-december-2025-core-update-observations-on-4-sites-that-did-well-marie-haynes/ — February 2026)
 ---
 ## 2. Ideas from Sources I'd Leave Out of the Playbook
 - **Idea 1: "Build a website with 100% AI content":** 

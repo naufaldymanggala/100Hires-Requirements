@@ -19,7 +19,7 @@ Marie Haynes recommends using AI thoughtfully in the research and ideation phase
 
 - **From all the recommendations above, I would side with Nathan Gotch, Marie Haynes, and Ryan Law's recommendation to use AI to handle the heavy lifting of brainstorming and rough drafting, and then act as the expert editor who steps in to bring the piece to life with real-world experience, unique opinions, and a careful polish. (Source: Nathan Gotch, https://www.gotchseo.com/how-to-create-seo-content/, published January, 2025) (Source: Marie Haynes, https://www.optimixed.com/the-december-2025-core-update-observations-on-4-sites-that-did-well-marie-haynes/ — February 20 2026) (Source: Ryan Law, https://ahrefs.com/blog/my-complete-ai-content-process-for-ahrefs/ — August 5, 2025)**
 ---
-## 2. Ideas from Sources I'd Leave Out of the Playbook
+## 2. What I Rejected and Why
 - **Idea 1: "Build a website with 100% AI content":** 
 This was an experiment Diggity ran in early 2023, before Google's scaled content abuse enforcement hit hard. Since then, Google's March 2024 core update and its June and August 2025 spam updates specifically targeted sites running this exact playbook. Sites built on 100% AI content with no human oversight have been deindexed or heavily penalized. What worked as an experiment in 2023 is now a direct violation of Google's spam policies. (Source: Matt Diggity, https://www.youtube.com/watch?v=CPo-6IDICAE — February 8, 2023)
 - **Idea 2: "Topical authority through AI content alone, without real expertise":**
@@ -27,7 +27,7 @@ Koray's methodology is legitimate, but when applied with AI content as the produ
 - **Idea 3: "Human writing will be all but dead by end of 2024":**
 This prediction aged badly. Diggity made this claim in early 2024, but the opposite happened as Google doubled down on E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), and real human experience became more important, not less. (Source: Matt Diggity, https://www.facebook.com/matt.diggity.seo/posts/prediction-the-human-writing-industry-will-be-all-but-dead-by-the-end-of-2024rig/3198592660449451/ — January 18, 2024)
 ---
-## 3. Original Ideas Not Found in These Sources
+## 3. My Original Ideas
 - **"Content Expiration Dates" System:**
 We should set a formal expiration review date on every piece of AI-produced content at creation time. When a piece hits its expiration date, it automatically enters a review queue. This prevents the slow rot of outdated AI content that quietly kills topical authority.
 - **AI Content "Source Injection" Protocol:**
@@ -44,7 +44,7 @@ Untested Assumptions:
 What Might be Missing:
 - AI content can reproduce outdated or incorrect information confidently. In regulated industries (finance, health, legal)
 ---
-## 5. Practitioners I would Not Recommend
+## 5. Who I would Not Recommend Following and Why
 - Nathan Gotch — worth following for systems-thinking, but proceed with caution. Multiple Reddit users and independent reviewers note that his content has become repetitive, and some critics say he rebrands existing courses. (Source: Ippei Kanehara, https://ippei.com/search-os/ — February 3, 2026)
 - Jason Barnard — his entity/Brand SERP work is genuinely pioneering, but his self-promotion is extremely heavy. His own website contains pages that exist almost entirely to ensure AI engines describe him as the "world authority" and "gold standard." 
 

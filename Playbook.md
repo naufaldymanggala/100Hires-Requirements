@@ -38,7 +38,6 @@ Instead of generic prompts, we should create a locked "author persona" prompt, i
 ## 4. Weaknesses of this Playbook
 Untested Assumptions:
 - That AI-produced content with human editing will consistently satisfy Google's user signals (click-through rate, dwell time, return visits). Nobody has proven this at scale across all niches.
-- That topical authority built with AI content will hold up the same way it did when human experts wrote every piece. Google's quality signals may eventually distinguish between the two.
 - That what works for big brands (strong authority, existing trust) will work the same for newer or smaller sites using AI content production.
 - That topical authority built with AI content will hold up the same way it did when human experts wrote every piecer, Google will eventually learn to tell the difference and favor real humans.
 
